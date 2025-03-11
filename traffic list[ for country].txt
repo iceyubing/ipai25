@@ -1,4 +1,4 @@
-Location	Rate	Vehicles[for each 1000]	Population	Year	Ref
+Location	Rate[per 1000]	Vehicles	Population	Year	Ref
  San Marino	1,606	53,940	33,581	2024	[2]
  Guernsey (UK)	1,389	88,532	63,726	2022	[3]
  Gibraltar (UK)	1,293	48,641	37,610	2022	[4]
