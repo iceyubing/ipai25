@@ -1,0 +1,4 @@
+1.Compare the data similar
+2.Data clearn(City,Country)
+3.Renamed of each attributes if it needs
+4.Data Refractoring - Table Refactoring (as the diagram we made)
