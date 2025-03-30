@@ -1,4 +1,4 @@
-country,location_name,latitude,longitude,last_updated,temperature_celsius,precip_mm,humidity,air_quality_PM2.5,air_quality_PM10
+Country,location_name,latitude,longitude,last_updated,temperature_celsius,precip_mm,humidity,air_quality_PM2.5,air_quality_PM10
 Afghanistan,Kabul,34.52,69.18,2023/8/29 14:00,28.8,0,19,7.9,11.1
 Albania,Tirana,41.33,19.82,2023/8/29 11:30,27,0,54,28.2,29.6
 Algeria,Algiers,36.76,3.05,2023/8/29 10:30,28,0,30,6.4,7.9
