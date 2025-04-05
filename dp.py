@@ -7,11 +7,30 @@ import re
 
 # Reading the dataset
 
-traffic = pd.read_csv("original data/trafficlist_forcountry.csv")
-forest = pd.read_csv("original data/forest-cover-v1.csv")
-air_city = pd.read_csv("original data/aap_air_quality_database_2018_v14.csv", skiprows=2)
-air_country = pd.read_csv("original data/【12】GlobalPM25-1998-2022.csv")
-weather = pd.read_csv("original data/GlobalWeatherRepository.csv")
+traffic_org = pd.read_csv("original data/trafficlist_forcountry.csv")
+forest_org = pd.read_csv("original data/forest-cover-v1.csv")
+air_city_org = pd.read_csv("original data/aap_air_quality_database_2018_v14.csv", skiprows=2)
+air_country_org = pd.read_csv("original data/【12】GlobalPM25-1998-2022.csv")
+weather_org = pd.read_csv("original data/GlobalWeatherRepository.csv")
+
+# Cleaning of the data for each of the data files
+
+#Clean data -Remove the attribuites that are not needed for analysis
+#traffic
+traffic = traffic_org.drop(columns=['Population'])
+traffic = traffic_org.drop(columns=['Ref'])
+
+# Air_city
+air_city = air_city_org.drop(columns=["Reference for air quality","iso3","Database version (year)","Temporal coverage.1","status","Number and type of monitoring stations","note on converted PM2.5","Annual mean, ug/m3","Temporal coverage","note on converted PM10"])
+
+# Air_country
+air_country = air_country_org.drop(columns=["% pop >= 5 ug/m3 [%]","% pop >= 10 ug/m3 [%]","% pop >= 15 ug/m3 [%]","% pop >= 30 ug/m3 [%]","% pop >= 35 ug/m3 [%]","% pop >= 40 ug/m3 [%]","% pop >= 45 ug/m3 [%]","% pop >= 50 ug/m3 [%]","% pop >= 55 ug/m3 [%]","% pop >= 60 ug/m3 [%]"])
+
+# Forest
+forest = forest_org.drop(columns=["Population Growth Rate","World Population Percentage"])
+
+# For weather keeping the attributes that are needed for analysis
+weather = weather_org[['country', 'location_name', 'latitude', 'longitude', 'last_updated', 'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']]
 
 # Data normalization function, to lowercase, remove special chars, and standardize
 def normalize_text(text):
@@ -50,3 +69,5 @@ weather['City_normalized'] = weather['location_name'].apply(normalize_text)
 city_forest = forest['City_normalized'].dropna().unique()
 city_air_city = air_city['City_normalized'].dropna().unique()
 city_air_weather = weather['City_normalized'].dropna().unique()
+
+
