@@ -4,6 +4,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import unicodedata
 import Levenshtein as lev
 import re
+from ydata_profiling import ProfileReport
 
 # Reading the dataset
 
@@ -29,8 +30,19 @@ air_country = air_country_org.drop(columns=["% pop >= 5 ug/m3 [%]","% pop >= 10 
 # Forest
 forest = forest_org.drop(columns=["Population Growth Rate","World Population Percentage"])
 
-# For weather keeping the attributes that are needed for analysis
-weather = weather_org[['country', 'location_name', 'latitude', 'longitude', 'last_updated', 'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']]
+# Weather
+# Drop unwanted columns to keep only the specified ones
+columns_to_keep = ['country', 'location_name', 'latitude', 'longitude', 'last_updated', 
+                   'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']
+
+# Identify columns to drop
+columns_to_drop = [col for col in weather_org.columns if col not in columns_to_keep]
+
+# Drop the unnecessary columns
+weather = weather_org.drop(columns=columns_to_drop)
+
+# # For weather keeping the attributes that are needed for analysis
+# weather = weather_org[['country', 'location_name', 'latitude', 'longitude', 'last_updated', 'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']]
 
 # Data normalization function, to lowercase, remove special chars, and standardize
 def normalize_text(text):
@@ -69,5 +81,6 @@ weather['City_normalized'] = weather['location_name'].apply(normalize_text)
 city_forest = forest['City_normalized'].dropna().unique()
 city_air_city = air_city['City_normalized'].dropna().unique()
 city_air_weather = weather['City_normalized'].dropna().unique()
+
 
 
