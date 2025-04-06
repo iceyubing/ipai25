@@ -78,7 +78,6 @@ air_city['Country_normalized'] = air_city['Country'].apply(normalize_text)
 air_country['Country_normalized'] = air_country['Region'].apply(normalize_text)
 weather['Country_normalized'] = weather['country'].apply(normalize_text)
 
-
 # countries_traffic = traffic['Location_normalized'].dropna().unique()
 # countries_forest = forest['Country_normalized'].dropna().unique()
 # countries_air_city = air_city['Country_normalized'].dropna().unique()
