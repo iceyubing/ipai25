@@ -98,13 +98,13 @@ forest['city_prefix'] = forest['City_normalized'].str[:prefix_length_city]
 air_city['city_prefix'] = air_city['City_normalized'].str[:prefix_length_city]
 weather['city_prefix'] = weather['City_normalized'].str[:prefix_length_city]
 
-# forest & air_city: Comparison of cities
+# forest - air_city: Comparison of cities
 FCity_city_common_prefixes = set(forest['city_prefix']).intersection(set(air_city['city_prefix']))
 
-# Air_city & weather: Comparison of cities
+# air_city - weather: Comparison of cities
 CW_city_common_prefixes = set(air_city['city_prefix']).intersection(set(weather['city_prefix']))
 
-# Forest & weather: Comparison of cities
+# forest - weather: Comparison of cities
 FW_city_common_prefixes = set(forest['city_prefix']).intersection(set(weather['city_prefix']))
 
 # Blocking Stratergy - Prefix (finding common prefixes between attributes)
