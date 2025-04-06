@@ -129,3 +129,6 @@ FC_common_prefixes = set(forest['country_prefix']).intersection(set(air_country[
 
 # air_country - air_city
 CCity_common_prefixes = set(air_country['country_prefix']).intersection(set(air_city['country_prefix']))
+
+# forest - weather
+FW_common_prefixes = set(forest['country_prefix']).intersection(set(weather['country_prefix']))
