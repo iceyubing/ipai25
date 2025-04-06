@@ -17,6 +17,7 @@ weather_org = pd.read_csv("original data/GlobalWeatherRepository.csv")
 # Cleaning of the data for each of the data files
 
 #Clean data -Remove the attribuites that are not needed for analysis
+
 #traffic
 traffic = traffic_org.drop(columns=['Population'])
 traffic = traffic_org.drop(columns=['Ref'])
@@ -30,27 +31,32 @@ air_country = air_country_org.drop(columns=["% pop >= 5 ug/m3 [%]","% pop >= 10 
 # Forest
 # Drop unwanted columns to keep only the specified ones
 columns_to_keep = ['Country Name', 'Capital', 'Continent', 'Area (km²)', 'Population Density (per km²)', 'Population Rank', 'Forest Area 2010', 'Forest Area 2011', 'Forest Area 2012', 'Forest Area 2013', 'Forest Area 2014', 'Forest Area 2015', 'Forest Area 2016', 'Forest Area 2017','Forest Area 2018', 'Forest Area 2019', 'Forest Area 2020']
-
-# Identify columns to drop
 columns_to_drop = [col for col in forest_org.columns if col not in columns_to_keep]
-
-# Drop the unnecessary columns
-forest = forest_org.drop(columns=columns_to_drop)
-# forest = forest_org.drop(columns=["Population Growth Rate","World Population Percentage"])
+forest_un = forest_org.drop(columns=columns_to_drop)
 
 # Weather
 # Drop unwanted columns to keep only the specified ones
 columns_to_keep = ['country', 'location_name', 'latitude', 'longitude', 'last_updated', 
                    'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']
-
 # Identify columns to drop
 columns_to_drop = [col for col in weather_org.columns if col not in columns_to_keep]
-
 # Drop the unnecessary columns
 weather = weather_org.drop(columns=columns_to_drop)
 
-# # For weather keeping the attributes that are needed for analysis
-# weather = weather_org[['country', 'location_name', 'latitude', 'longitude', 'last_updated', 'temperature_celsius', 'precip_mm', 'humidity', 'air_quality_PM2.5']]
+
+# Post Pandas profiling, clean the forest dataset
+
+# Filter rows with missing values
+missing_values = forest_un[forest_un.isnull().any(axis=1)]
+# Drop rows by index
+rows_to_drop = [70, 81, 117, 120, 145]  # List of row indices to drop
+forest = forest_un.drop(rows_to_drop, axis=0)
+
+row_index = 175
+columns_to_average = ['Forest Area 2011', 'Forest Area 2012', 'Forest Area 2013', 'Forest Area 2014', 'Forest Area 2015', 'Forest Area 2016', 'Forest Area 2017', 'Forest Area 2018', 'Forest Area 2019', 'Forest Area 2020']
+
+# Calculate the average for the specific row - Forest Area 2010
+forest.loc[row_index, 'Forest Area 2010'] = forest.loc[row_index, columns_to_average].mean()
 
 # Data normalization function, to lowercase, remove special chars, and standardize
 def normalize_text(text):
