@@ -118,5 +118,14 @@ TC_common_prefixes = set(traffic['country_prefix']).intersection(set(air_country
 # traffic - weather
 TW_common_prefixes = set(traffic['country_prefix']).intersection(set(weather['country_prefix']))
 
+# air_country - weather
+CW_common_prefixes = set(air_country['country_prefix']).intersection(set(weather['country_prefix']))
 
+# forest - air_city
+FCity_common_prefixes = set(forest['country_prefix']).intersection(set(air_city['country_prefix']))
 
+# forest - air_country
+FC_common_prefixes = set(forest['country_prefix']).intersection(set(air_country['country_prefix']))
+
+# air_country - air_city
+CCity_common_prefixes = set(air_country['country_prefix']).intersection(set(air_city['country_prefix']))
