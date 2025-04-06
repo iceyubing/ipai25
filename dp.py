@@ -79,11 +79,11 @@ air_country['Region_normalized'] = air_country['Region'].apply(normalize_text)
 weather['country_normalized'] = weather['country'].apply(normalize_text)
 
 
-countries_traffic = traffic['Location_normalized'].dropna().unique()
-countries_forest = forest['Country_normalized'].dropna().unique()
-countries_air_city = air_city['Country_normalized'].dropna().unique()
-countries_air_country = air_country['Region_normalized'].dropna().unique()
-countries_air_weather = weather['country_normalized'].dropna().unique()
+# countries_traffic = traffic['Location_normalized'].dropna().unique()
+# countries_forest = forest['Country_normalized'].dropna().unique()
+# countries_air_city = air_city['Country_normalized'].dropna().unique()
+# countries_air_country = air_country['Region_normalized'].dropna().unique()
+# countries_air_weather = weather['country_normalized'].dropna().unique()
 
 # Matching the cities for each of the relevant tables
 # Normalize all city columns upfront
@@ -95,6 +95,28 @@ weather['City_normalized'] = weather['location_name'].apply(normalize_text)
 city_forest = forest['City_normalized'].dropna().unique()
 city_air_city = air_city['City_normalized'].dropna().unique()
 city_air_weather = weather['City_normalized'].dropna().unique()
+
+# Blocking Stratergy - Prefix (finding common prefixes between attributes)
+
+prefix_length = 3
+
+traffic['country_prefix'] = traffic['Location_normalized'].str[:prefix_length]
+forest['country_prefix'] = forest['Country_normalized'].str[:prefix_length]
+air_city['country_prefix'] = air_city['Country_normalized'].str[:prefix_length]
+air_country['country_prefix'] = air_country['Region_normalized'].str[:prefix_length]
+weather['country_prefix'] = weather['country_normalized'].str[:prefix_length]
+
+# traffic - forest
+TF_common_prefixes = set(traffic['country_prefix']).intersection(set(forest['country_prefix']))
+
+# traffic - air_city
+TCity_common_prefixes = set(traffic['country_prefix']).intersection(set(air_city['country_prefix']))
+
+# traffic - air_country
+TC_common_prefixes = set(traffic['country_prefix']).intersection(set(air_country['country_prefix']))
+
+# traffic - weather
+TW_common_prefixes = set(traffic['country_prefix']).intersection(set(weather['country_prefix']))
 
 
 
