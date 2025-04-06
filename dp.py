@@ -94,7 +94,7 @@ weather['City_normalized'] = weather['location_name'].apply(normalize_text)
 
 city_forest = forest['City_normalized'].dropna().unique()
 city_air_city = air_city['City_normalized'].dropna().unique()
-city_air_weather = weather['City_normalized'].dropna().unique()
+city_weather = weather['City_normalized'].dropna().unique()
 
 # Blocking Stratergy - Prefix (finding common prefixes between attributes)
 
