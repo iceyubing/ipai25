@@ -72,11 +72,11 @@ def normalize_text(text):
     return text
 
 # Normalize all country/city columns upfront
-traffic['Location_normalized'] = traffic['Location'].apply(normalize_text)
+traffic['Country_normalized'] = traffic['Location'].apply(normalize_text)
 forest['Country_normalized'] = forest['Country Name'].apply(normalize_text)
 air_city['Country_normalized'] = air_city['Country'].apply(normalize_text)
-air_country['Region_normalized'] = air_country['Region'].apply(normalize_text)
-weather['country_normalized'] = weather['country'].apply(normalize_text)
+air_country['Country_normalized'] = air_country['Region'].apply(normalize_text)
+weather['Country_normalized'] = weather['country'].apply(normalize_text)
 
 
 # countries_traffic = traffic['Location_normalized'].dropna().unique()
@@ -100,11 +100,11 @@ city_air_weather = weather['City_normalized'].dropna().unique()
 
 prefix_length = 3
 
-traffic['country_prefix'] = traffic['Location_normalized'].str[:prefix_length]
+traffic['country_prefix'] = traffic['Country_normalized'].str[:prefix_length]
 forest['country_prefix'] = forest['Country_normalized'].str[:prefix_length]
 air_city['country_prefix'] = air_city['Country_normalized'].str[:prefix_length]
-air_country['country_prefix'] = air_country['Region_normalized'].str[:prefix_length]
-weather['country_prefix'] = weather['country_normalized'].str[:prefix_length]
+air_country['country_prefix'] = air_country['Country_normalized'].str[:prefix_length]
+weather['country_prefix'] = weather['Country_normalized'].str[:prefix_length]
 
 # traffic - forest
 TF_common_prefixes = set(traffic['country_prefix']).intersection(set(forest['country_prefix']))
