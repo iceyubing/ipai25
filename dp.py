@@ -28,7 +28,15 @@ air_city = air_city_org.drop(columns=["Reference for air quality","iso3","Databa
 air_country = air_country_org.drop(columns=["% pop >= 5 ug/m3 [%]","% pop >= 10 ug/m3 [%]","% pop >= 15 ug/m3 [%]","% pop >= 30 ug/m3 [%]","% pop >= 35 ug/m3 [%]","% pop >= 40 ug/m3 [%]","% pop >= 45 ug/m3 [%]","% pop >= 50 ug/m3 [%]","% pop >= 55 ug/m3 [%]","% pop >= 60 ug/m3 [%]"])
 
 # Forest
-forest = forest_org.drop(columns=["Population Growth Rate","World Population Percentage"])
+# Drop unwanted columns to keep only the specified ones
+columns_to_keep = ['Country Name', 'Capital', 'Continent', 'Area (km²)', 'Population Density (per km²)', 'Population Rank', 'Forest Area 2010', 'Forest Area 2011', 'Forest Area 2012', 'Forest Area 2013', 'Forest Area 2014', 'Forest Area 2015', 'Forest Area 2016', 'Forest Area 2017','Forest Area 2018', 'Forest Area 2019', 'Forest Area 2020']
+
+# Identify columns to drop
+columns_to_drop = [col for col in forest_org.columns if col not in columns_to_keep]
+
+# Drop the unnecessary columns
+forest = forest_org.drop(columns=columns_to_drop)
+# forest = forest_org.drop(columns=["Population Growth Rate","World Population Percentage"])
 
 # Weather
 # Drop unwanted columns to keep only the specified ones
