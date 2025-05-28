@@ -1,0 +1,3444 @@
+[
+    {
+        "id": "06HL4z0CvFAxyc27GXpf02",
+        "name": "Taylor Swift",
+        "genres": [],
+        "popularity": 98,
+        "followers": 137138687
+    },
+    {
+        "id": "1HY2Jd0NmPuamShAr6KMms",
+        "name": "Lady Gaga",
+        "genres": [
+            "art pop",
+            "pop"
+        ],
+        "popularity": 95,
+        "followers": 37740851
+    },
+    {
+        "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+        "name": "Billie Eilish",
+        "genres": [],
+        "popularity": 95,
+        "followers": 111545126
+    },
+    {
+        "id": "66CXWjxzNUsdJxJ2JdwvnR",
+        "name": "Ariana Grande",
+        "genres": [
+            "pop"
+        ],
+        "popularity": 94,
+        "followers": 105220521
+    },
+    {
+        "id": "4YRxDV8wJFPHPTeXepOstw",
+        "name": "Arijit Singh",
+        "genres": [
+            "hindi pop",
+            "bollywood",
+            "desi",
+            "bangla pop"
+        ],
+        "popularity": 92,
+        "followers": 145395467
+    },
+    {
+        "id": "1mcTU81TzQhprhouKaTkpq",
+        "name": "Rauw Alejandro",
+        "genres": [
+            "reggaeton",
+            "urbano latino",
+            "trap latino",
+            "latin"
+        ],
+        "popularity": 92,
+        "followers": 28444972
+    },
+    {
+        "id": "6eUKZXaKkcviH0Ku9w2n3V",
+        "name": "Ed Sheeran",
+        "genres": [
+            "soft pop"
+        ],
+        "popularity": 90,
+        "followers": 120352963
+    },
+    {
+        "id": "2R21vXR83lH98kGeO99Y66",
+        "name": "Anuel AA",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino",
+            "latin"
+        ],
+        "popularity": 89,
+        "followers": 42055433
+    },
+    {
+        "id": "55Aa2cqylxrFIXC767Z865",
+        "name": "Lil Wayne",
+        "genres": [
+            "rap",
+            "hip hop"
+        ],
+        "popularity": 89,
+        "followers": 16976181
+    },
+    {
+        "id": "7Ln80lUS6He07XvHI8qqHH",
+        "name": "Arctic Monkeys",
+        "genres": [
+            "indie",
+            "garage rock"
+        ],
+        "popularity": 88,
+        "followers": 30135645
+    },
+    {
+        "id": "4tuJ0bMpJh08umKkEXKUI5",
+        "name": "Gracie Abrams",
+        "genres": [],
+        "popularity": 88,
+        "followers": 5641034
+    },
+    {
+        "id": "4dpARuHxo51G3z768sgnrY",
+        "name": "Adele",
+        "genres": [
+            "soft pop"
+        ],
+        "popularity": 87,
+        "followers": 64060718
+    },
+    {
+        "id": "0fTSzq9jAh4c36UVb4V7CB",
+        "name": "Alex Warren",
+        "genres": [],
+        "popularity": 87,
+        "followers": 1354580
+    },
+    {
+        "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+        "name": "Gunna",
+        "genres": [
+            "melodic rap"
+        ],
+        "popularity": 87,
+        "followers": 9449195
+    },
+    {
+        "id": "50co4Is1HCEo8bhOyUWKpn",
+        "name": "Young Thug",
+        "genres": [
+            "rap",
+            "melodic rap",
+            "trap"
+        ],
+        "popularity": 87,
+        "followers": 11728638
+    },
+    {
+        "id": "15UsOTVnJzReFVN1VCnxy4",
+        "name": "XXXTENTACION",
+        "genres": [
+            "emo rap"
+        ],
+        "popularity": 87,
+        "followers": 50057012
+    },
+    {
+        "id": "13ubrt8QOOCPljQ2FL1Kca",
+        "name": "A$AP Rocky",
+        "genres": [
+            "rap"
+        ],
+        "popularity": 86,
+        "followers": 16536424
+    },
+    {
+        "id": "1QAJqy2dA3ihHBFIHRphZj",
+        "name": "Cigarettes After Sex",
+        "genres": [
+            "dream pop"
+        ],
+        "popularity": 86,
+        "followers": 15722509
+    },
+    {
+        "id": "5lwmRuXgjX8xIwlnauTZIP",
+        "name": "Romeo Santos",
+        "genres": [
+            "bachata",
+            "bachata pop",
+            "latin"
+        ],
+        "popularity": 85,
+        "followers": 25254442
+    },
+    {
+        "id": "3fMbdgg4jU18AjLCKBhRSm",
+        "name": "Michael Jackson",
+        "genres": [],
+        "popularity": 85,
+        "followers": 35635720
+    },
+    {
+        "id": "711MCceyCBcFnzjGY4Q7Un",
+        "name": "AC/DC",
+        "genres": [
+            "rock",
+            "hard rock",
+            "classic rock",
+            "rock and roll"
+        ],
+        "popularity": 84,
+        "followers": 31157450
+    },
+    {
+        "id": "1vCWHaC5f2uS3yhpwWbIA6",
+        "name": "Avicii",
+        "genres": [
+            "edm"
+        ],
+        "popularity": 84,
+        "followers": 23535606
+    },
+    {
+        "id": "0z4gvV4rjIZ9wHck67ucSV",
+        "name": "Akon",
+        "genres": [],
+        "popularity": 84,
+        "followers": 5601495
+    },
+    {
+        "id": "26VFTg2z8YR0cCuwLzESi2",
+        "name": "Halsey",
+        "genres": [],
+        "popularity": 84,
+        "followers": 22117710
+    },
+    {
+        "id": "4SsVbpTthjScTS7U2hmr1X",
+        "name": "Arcángel",
+        "genres": [
+            "reggaeton",
+            "trap latino",
+            "urbano latino"
+        ],
+        "popularity": 84,
+        "followers": 16965017
+    },
+    {
+        "id": "4zCH9qm4R2DADamUHMCa6O",
+        "name": "Anirudh Ravichander",
+        "genres": [
+            "tamil pop",
+            "kollywood",
+            "tamil dance",
+            "tollywood",
+            "tamil hip hop",
+            "telugu pop"
+        ],
+        "popularity": 84,
+        "followers": 38774460
+    },
+    {
+        "id": "23zg3TcAtWQy7J6upgbUnj",
+        "name": "USHER",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 84,
+        "followers": 13193418
+    },
+    {
+        "id": "7cYEt1pqMgXJdq00hAwVpT",
+        "name": "Chase Atlantic",
+        "genres": [],
+        "popularity": 84,
+        "followers": 9648147
+    },
+    {
+        "id": "3Isy6kedDrgPYoTS1dazA9",
+        "name": "Sean Paul",
+        "genres": [
+            "dancehall"
+        ],
+        "popularity": 84,
+        "followers": 5126345
+    },
+    {
+        "id": "5eAWCfyUhZtHHtBdNk56l1",
+        "name": "System Of A Down",
+        "genres": [
+            "nu metal",
+            "metal",
+            "alternative metal",
+            "rap metal",
+            "rock"
+        ],
+        "popularity": 84,
+        "followers": 12881652
+    },
+    {
+        "id": "2ye2Wgw4gimLv2eAKyk1NB",
+        "name": "Metallica",
+        "genres": [
+            "metal",
+            "thrash metal",
+            "rock",
+            "heavy metal",
+            "hard rock"
+        ],
+        "popularity": 84,
+        "followers": 30652359
+    },
+    {
+        "id": "0LcJLqbBmaGUft1e9Mm8HV",
+        "name": "ABBA",
+        "genres": [],
+        "popularity": 83,
+        "followers": 14072253
+    },
+    {
+        "id": "21E3waRsmPlU7jZsS13rcj",
+        "name": "Ne-Yo",
+        "genres": [],
+        "popularity": 83,
+        "followers": 9810265
+    },
+    {
+        "id": "3gBKY0y3dFFVRqicLnVZYz",
+        "name": "Alka Yagnik",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi"
+        ],
+        "popularity": 83,
+        "followers": 18353963
+    },
+    {
+        "id": "5bSfBBCxY8QAk4Pifveisz",
+        "name": "La Arrolladora Banda El Limón De Rene Camacho",
+        "genres": [
+            "banda",
+            "norteño",
+            "grupera"
+        ],
+        "popularity": 83,
+        "followers": 8883392
+    },
+    {
+        "id": "4IWBUUAFIplrNtaOHcJPRM",
+        "name": "James Arthur",
+        "genres": [
+            "soft pop"
+        ],
+        "popularity": 83,
+        "followers": 20149411
+    },
+    {
+        "id": "2QsynagSdAqZj3U9HgDzjD",
+        "name": "Bob Marley & The Wailers",
+        "genres": [
+            "reggae",
+            "roots reggae"
+        ],
+        "popularity": 83,
+        "followers": 13142274
+    },
+    {
+        "id": "4QvgGvpgzgyUOo8Yp8LDm9",
+        "name": "Mrs. GREEN APPLE",
+        "genres": [
+            "j-pop",
+            "anime",
+            "j-rock"
+        ],
+        "popularity": 83,
+        "followers": 5537786
+    },
+    {
+        "id": "7FNnA9vBm6EKceENgCGRMb",
+        "name": "Anitta",
+        "genres": [
+            "brazilian pop",
+            "funk pop",
+            "funk carioca",
+            "funk",
+            "pagode baiano"
+        ],
+        "popularity": 82,
+        "followers": 13134486
+    },
+    {
+        "id": "7vk5e3vY1uw9plTHJAMwjN",
+        "name": "Alan Walker",
+        "genres": [],
+        "popularity": 82,
+        "followers": 40633219
+    },
+    {
+        "id": "0X2BH1fck6amBIoJhDVmmJ",
+        "name": "Ellie Goulding",
+        "genres": [],
+        "popularity": 82,
+        "followers": 13041799
+    },
+    {
+        "id": "4QFG9KrGWEbr6hNA58CAqE",
+        "name": "Alemán",
+        "genres": [
+            "mexican hip hop",
+            "latin hip hop",
+            "electro corridos"
+        ],
+        "popularity": 82,
+        "followers": 6163089
+    },
+    {
+        "id": "1mYsTxnqsietFxj1OgoGbG",
+        "name": "A.R. Rahman",
+        "genres": [
+            "tamil pop",
+            "kollywood",
+            "sufi",
+            "bollywood",
+            "hindi pop",
+            "desi",
+            "tamil dance"
+        ],
+        "popularity": 82,
+        "followers": 63147531
+    },
+    {
+        "id": "3qm84nBOXUEQ2vnTfUTTFC",
+        "name": "Guns N' Roses",
+        "genres": [
+            "rock",
+            "glam metal",
+            "hard rock",
+            "classic rock"
+        ],
+        "popularity": 82,
+        "followers": 33785289
+    },
+    {
+        "id": "1ZwdS5xdxEREPySFridCfh",
+        "name": "2Pac",
+        "genres": [
+            "gangster rap",
+            "west coast hip hop",
+            "g-funk",
+            "hip hop"
+        ],
+        "popularity": 82,
+        "followers": 21423238
+    },
+    {
+        "id": "1qto4hHid1P71emI6Fd8xi",
+        "name": "Aventura",
+        "genres": [
+            "bachata",
+            "bachata pop"
+        ],
+        "popularity": 81,
+        "followers": 9979551
+    },
+    {
+        "id": "2oSONSC9zQ4UonDKnLqksx",
+        "name": "Atif Aslam",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi",
+            "sufi",
+            "qawwali"
+        ],
+        "popularity": 81,
+        "followers": 34893914
+    },
+    {
+        "id": "77ziqFxp5gaInVrF2lj4ht",
+        "name": "Sech",
+        "genres": [
+            "reggaeton",
+            "urbano latino"
+        ],
+        "popularity": 81,
+        "followers": 12077242
+    },
+    {
+        "id": "6DARBhWbfcS9E4yJzcliqQ",
+        "name": "Karan Aujla",
+        "genres": [
+            "punjabi pop",
+            "punjabi hip hop",
+            "bhangra",
+            "desi hip hop",
+            "desi"
+        ],
+        "popularity": 81,
+        "followers": 18155308
+    },
+    {
+        "id": "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name": "Vishal-Shekhar",
+        "genres": [
+            "bollywood",
+            "desi",
+            "hindi pop"
+        ],
+        "popularity": 81,
+        "followers": 12672829
+    },
+    {
+        "id": "3DiDSECUqqY1AuBP8qtaIa",
+        "name": "Alicia Keys",
+        "genres": [
+            "r&b",
+            "neo soul"
+        ],
+        "popularity": 80,
+        "followers": 12573685
+    },
+    {
+        "id": "4npEfmQ6YuiwW1GpUmaq3F",
+        "name": "Ava Max",
+        "genres": [],
+        "popularity": 80,
+        "followers": 7493150
+    },
+    {
+        "id": "1l7ZsJRRS8wlW3WfJfPfNS",
+        "name": "Christina Aguilera",
+        "genres": [],
+        "popularity": 80,
+        "followers": 8953113
+    },
+    {
+        "id": "5sUrlPAHlS9NEirDB8SEbF",
+        "name": "Alejandro Sanz",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 80,
+        "followers": 8003697
+    },
+    {
+        "id": "2uFUBdaVGtyMqckSeCl0Qj",
+        "name": "Ludovico Einaudi",
+        "genres": [
+            "neoclassical",
+            "classical"
+        ],
+        "popularity": 80,
+        "followers": 3815436
+    },
+    {
+        "id": "5xYNmNkaWRqu3e5F4UXME8",
+        "name": "Alfredo Olivas",
+        "genres": [
+            "banda",
+            "corrido",
+            "norteño",
+            "sierreño",
+            "corridos bélicos"
+        ],
+        "popularity": 80,
+        "followers": 10381820
+    },
+    {
+        "id": "7MiDcPa6UiV3In7lIM71IN",
+        "name": "Gusttavo Lima",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "arrocha",
+            "agronejo",
+            "piseiro",
+            "forró"
+        ],
+        "popularity": 80,
+        "followers": 22834759
+    },
+    {
+        "id": "1moxjboGR7GNWYIMWsRjgG",
+        "name": "Florence + The Machine",
+        "genres": [
+            "baroque pop"
+        ],
+        "popularity": 80,
+        "followers": 7102976
+    },
+    {
+        "id": "4wLXwxDeWQ8mtUIRPxGiD6",
+        "name": "Marc Anthony",
+        "genres": [
+            "salsa",
+            "salsa romantica",
+            "merengue",
+            "bachata",
+            "latin"
+        ],
+        "popularity": 80,
+        "followers": 10561525
+    },
+    {
+        "id": "5ZS223C6JyBfXasXxrRqOk",
+        "name": "Jhené Aiko",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 80,
+        "followers": 9205788
+    },
+    {
+        "id": "6Xb4ezwoAQC4516kI89nWz",
+        "name": "Imogen Heap",
+        "genres": [],
+        "popularity": 80,
+        "followers": 985446
+    },
+    {
+        "id": "0XeEobZplHxzM9QzFQWLiR",
+        "name": "Eslabon Armado",
+        "genres": [
+            "corridos tumbados",
+            "sad sierreño",
+            "corrido",
+            "sierreño",
+            "música mexicana",
+            "corridos bélicos"
+        ],
+        "popularity": 80,
+        "followers": 6249674
+    },
+    {
+        "id": "2CKOmarVWvWqkNWUatHCex",
+        "name": "Ana Castela",
+        "genres": [
+            "agronejo",
+            "sertanejo",
+            "sertanejo universitário",
+            "piseiro"
+        ],
+        "popularity": 79,
+        "followers": 8784702
+    },
+    {
+        "id": "6Q192DXotxtaysaqNPy5yR",
+        "name": "Amy Winehouse",
+        "genres": [],
+        "popularity": 79,
+        "followers": 9567450
+    },
+    {
+        "id": "0NGAZxHanS9e0iNHpR8f2W",
+        "name": "Alok",
+        "genres": [
+            "brazilian bass",
+            "electronic",
+            "slap house",
+            "electro house"
+        ],
+        "popularity": 79,
+        "followers": 11268554
+    },
+    {
+        "id": "0p4nmQO2msCgU4IF37Wi3j",
+        "name": "Avril Lavigne",
+        "genres": [],
+        "popularity": 79,
+        "followers": 11712533
+    },
+    {
+        "id": "1zNqDE7qDGCsyzJwohVaoX",
+        "name": "Anne-Marie",
+        "genres": [],
+        "popularity": 79,
+        "followers": 12473772
+    },
+    {
+        "id": "6YVMFz59CuY7ngCxTxjpxE",
+        "name": "aespa",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 79,
+        "followers": 8598460
+    },
+    {
+        "id": "07YZf4WDAMNwqr4jfgOZ8y",
+        "name": "Jason Derulo",
+        "genres": [],
+        "popularity": 79,
+        "followers": 12484972
+    },
+    {
+        "id": "2oQX8QiMXOyuqbcZEFsZfm",
+        "name": "El Alfa",
+        "genres": [
+            "dembow",
+            "urbano latino",
+            "latin"
+        ],
+        "popularity": 79,
+        "followers": 3980913
+    },
+    {
+        "id": "31W5EY0aAly4Qieq6OFu6I",
+        "name": "A Boogie Wit da Hoodie",
+        "genres": [
+            "melodic rap"
+        ],
+        "popularity": 79,
+        "followers": 8788600
+    },
+    {
+        "id": "43ZHCT0cAZBISjO8DG9PnE",
+        "name": "Elvis Presley",
+        "genres": [
+            "rockabilly",
+            "rock and roll"
+        ],
+        "popularity": 79,
+        "followers": 10596148
+    },
+    {
+        "id": "0ZCO8oVkMj897cKgFH7fRW",
+        "name": "Los Ángeles Azules",
+        "genres": [
+            "cumbia",
+            "cumbia sonidera",
+            "salsa"
+        ],
+        "popularity": 79,
+        "followers": 8378767
+    },
+    {
+        "id": "0nmQIMXWTXfhgOBdNzhGOs",
+        "name": "Avenged Sevenfold",
+        "genres": [
+            "metal",
+            "alternative metal",
+            "heavy metal",
+            "rock"
+        ],
+        "popularity": 78,
+        "followers": 10849613
+    },
+    {
+        "id": "64tNsm6TnZe2zpcMVMOoHL",
+        "name": "Alice In Chains",
+        "genres": [
+            "grunge",
+            "post-grunge"
+        ],
+        "popularity": 78,
+        "followers": 5815973
+    },
+    {
+        "id": "5aIqB5nVVvmFsvSdExz408",
+        "name": "Johann Sebastian Bach",
+        "genres": [
+            "classical",
+            "classical piano"
+        ],
+        "popularity": 78,
+        "followers": 4692555
+    },
+    {
+        "id": "7Ey4PD4MYsKc5I2dolUwbH",
+        "name": "Aerosmith",
+        "genres": [
+            "classic rock",
+            "rock"
+        ],
+        "popularity": 78,
+        "followers": 15458998
+    },
+    {
+        "id": "3jK9MiCrA42lLAdMGUZpwa",
+        "name": "Anderson .Paak",
+        "genres": [],
+        "popularity": 78,
+        "followers": 2658641
+    },
+    {
+        "id": "0PCCGZ0wGLizHt2KZ7hhA2",
+        "name": "Artemas",
+        "genres": [],
+        "popularity": 78,
+        "followers": 1236004
+    },
+    {
+        "id": "6mEQK9m2krja6X1cfsAjfl",
+        "name": "Ado",
+        "genres": [
+            "j-pop",
+            "anime",
+            "vocaloid",
+            "j-rock"
+        ],
+        "popularity": 78,
+        "followers": 5987561
+    },
+    {
+        "id": "5J7rXWjtn5HzUkJ4Jet8Fr",
+        "name": "Alvaro Diaz",
+        "genres": [],
+        "popularity": 78,
+        "followers": 1286395
+    },
+    {
+        "id": "6sq1yF0OZEWA4xoXVKW1L9",
+        "name": "Alejandro Fernández",
+        "genres": [
+            "mariachi",
+            "ranchera",
+            "latin pop",
+            "bolero"
+        ],
+        "popularity": 78,
+        "followers": 8333617
+    },
+    {
+        "id": "3Z02hBLubJxuFJfhacLSDc",
+        "name": "Bryan Adams",
+        "genres": [],
+        "popularity": 78,
+        "followers": 4386278
+    },
+    {
+        "id": "21451j1KhjAiaYKflxBjr1",
+        "name": "Zion & Lennox",
+        "genres": [
+            "reggaeton",
+            "latin"
+        ],
+        "popularity": 78,
+        "followers": 8074277
+    },
+    {
+        "id": "20JZFwl6HVl6yg8a4H3ZqK",
+        "name": "Panic! At The Disco",
+        "genres": [
+            "emo"
+        ],
+        "popularity": 78,
+        "followers": 12608222
+    },
+    {
+        "id": "3eqjTLE0HfPfh78zjh6TqT",
+        "name": "Bruce Springsteen",
+        "genres": [],
+        "popularity": 78,
+        "followers": 7006256
+    },
+    {
+        "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+        "name": "Frank Sinatra",
+        "genres": [
+            "christmas",
+            "big band",
+            "adult standards",
+            "swing music",
+            "vocal jazz",
+            "jazz"
+        ],
+        "popularity": 78,
+        "followers": 8038532
+    },
+    {
+        "id": "3FfvYsEGaIb52QPXhg4DcH",
+        "name": "Jason Aldean",
+        "genres": [
+            "country",
+            "acoustic country"
+        ],
+        "popularity": 78,
+        "followers": 6863988
+    },
+    {
+        "id": "17lzZA2AlOHwCwFALHttmp",
+        "name": "2 Chainz",
+        "genres": [
+            "southern hip hop",
+            "rap"
+        ],
+        "popularity": 78,
+        "followers": 8232358
+    },
+    {
+        "id": "61JrslREXq98hurYL2hYoc",
+        "name": "Lata Mangeshkar",
+        "genres": [
+            "ghazal",
+            "bollywood",
+            "bhajan",
+            "hindi pop",
+            "marathi pop"
+        ],
+        "popularity": 78,
+        "followers": 20924755
+    },
+    {
+        "id": "1WgXqy2Dd70QQOU7Ay074N",
+        "name": "AURORA",
+        "genres": [
+            "norwegian pop",
+            "art pop"
+        ],
+        "popularity": 77,
+        "followers": 4402607
+    },
+    {
+        "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+        "name": "Armin van Buuren",
+        "genres": [
+            "trance",
+            "progressive trance",
+            "progressive house",
+            "electronica",
+            "edm"
+        ],
+        "popularity": 77,
+        "followers": 4537729
+    },
+    {
+        "id": "3ZpEKRjHaHANcpk10u6Ntq",
+        "name": "Ayra Starr",
+        "genres": [
+            "afrobeats",
+            "afrobeat",
+            "afropop",
+            "afropiano",
+            "afro soul"
+        ],
+        "popularity": 77,
+        "followers": 4760201
+    },
+    {
+        "id": "4NJhFmfw43RLBLjQvxDuRS",
+        "name": "Wolfgang Amadeus Mozart",
+        "genres": [
+            "classical",
+            "requiem",
+            "opera",
+            "classical piano",
+            "chamber music"
+        ],
+        "popularity": 77,
+        "followers": 5774128
+    },
+    {
+        "id": "6lcwlkAjBPSKnFBZjjZFJs",
+        "name": "Alex G",
+        "genres": [],
+        "popularity": 77,
+        "followers": 3136945
+    },
+    {
+        "id": "1G9G7WwrXka3Z1r7aIDjI7",
+        "name": "Outkast",
+        "genres": [
+            "southern hip hop",
+            "hip hop"
+        ],
+        "popularity": 77,
+        "followers": 3158841
+    },
+    {
+        "id": "6bGOmNBU1AOgttgOjh0ldf",
+        "name": "Ati242",
+        "genres": [
+            "turkish hip hop"
+        ],
+        "popularity": 77,
+        "followers": 2463425
+    },
+    {
+        "id": "2gBjLmx6zQnFGQJCAQpRgw",
+        "name": "Nelly",
+        "genres": [],
+        "popularity": 77,
+        "followers": 3438108
+    },
+    {
+        "id": "4oLeXFyACqeem2VImYeBFe",
+        "name": "Fred again..",
+        "genres": [
+            "stutter house",
+            "house"
+        ],
+        "popularity": 77,
+        "followers": 1947582
+    },
+    {
+        "id": "3GBPw9NK25X1Wt2OUvOwY3",
+        "name": "Jack Johnson",
+        "genres": [
+            "surf rock"
+        ],
+        "popularity": 77,
+        "followers": 3997457
+    },
+    {
+        "id": "3gd8FJtBJtkRxdfbTu19U2",
+        "name": "Mumford & Sons",
+        "genres": [
+            "folk",
+            "indie folk",
+            "folk rock"
+        ],
+        "popularity": 77,
+        "followers": 6581949
+    },
+    {
+        "id": "4yvcSjfu4PC0CYQyLy4wSq",
+        "name": "Glass Animals",
+        "genres": [],
+        "popularity": 77,
+        "followers": 4462144
+    },
+    {
+        "id": "0h1zs4CTlU9D2QtgPxptUD",
+        "name": "Ricardo Arjona",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 77,
+        "followers": 14018158
+    },
+    {
+        "id": "5xd2Tg7Zo8755eCy8Gxkp8",
+        "name": "Ha*Ash",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 77,
+        "followers": 9216060
+    },
+    {
+        "id": "2loEsOijJ6XiGzWYFXMIRk",
+        "name": "Adam Port",
+        "genres": [
+            "afro house",
+            "house"
+        ],
+        "popularity": 76,
+        "followers": 287382
+    },
+    {
+        "id": "7eLcDZDYHXZCebtQmVFL25",
+        "name": "Aitana",
+        "genres": [],
+        "popularity": 76,
+        "followers": 3280471
+    },
+    {
+        "id": "4AVFqumd2ogHFlRbKIjp1t",
+        "name": "Alesso",
+        "genres": [
+            "edm"
+        ],
+        "popularity": 76,
+        "followers": 4017708
+    },
+    {
+        "id": "2auC28zjQyVTsiZKNgPRGs",
+        "name": "RM",
+        "genres": [
+            "k-pop",
+            "k-rap"
+        ],
+        "popularity": 76,
+        "followers": 17330451
+    },
+    {
+        "id": "4D75GcNG95ebPtNvoNVXhz",
+        "name": "AFROJACK",
+        "genres": [
+            "edm",
+            "big room"
+        ],
+        "popularity": 76,
+        "followers": 4012997
+    },
+    {
+        "id": "3a1tBryiczPAZpgoZN9Rzg",
+        "name": "Asake",
+        "genres": [
+            "afrobeats",
+            "afrobeat",
+            "afropiano",
+            "afro adura",
+            "afropop",
+            "amapiano",
+            "afroswing"
+        ],
+        "popularity": 76,
+        "followers": 5985471
+    },
+    {
+        "id": "4aKWmkWAKviFlyvHYPTNQY",
+        "name": "Adrianne Lenker",
+        "genres": [],
+        "popularity": 76,
+        "followers": 1129596
+    },
+    {
+        "id": "6LEG9Ld1aLImEFEVHdWNSB",
+        "name": "AP Dhillon",
+        "genres": [
+            "punjabi hip hop",
+            "punjabi pop",
+            "desi",
+            "bhangra",
+            "desi hip hop",
+            "desi pop"
+        ],
+        "popularity": 76,
+        "followers": 7386220
+    },
+    {
+        "id": "2R4kNOwHUUsuDYhKsESVbF",
+        "name": "Artie 5ive",
+        "genres": [
+            "italian trap"
+        ],
+        "popularity": 76,
+        "followers": 686951
+    },
+    {
+        "id": "2NoJ7NuNs9nyj8Thoh1kbu",
+        "name": "Hariharan",
+        "genres": [
+            "bhajan",
+            "tamil pop",
+            "ghazal",
+            "kollywood",
+            "devotional",
+            "telugu pop"
+        ],
+        "popularity": 76,
+        "followers": 6845869
+    },
+    {
+        "id": "3Mcii5XWf6E0lrY3Uky4cA",
+        "name": "Ice Cube",
+        "genres": [
+            "gangster rap",
+            "west coast hip hop",
+            "g-funk"
+        ],
+        "popularity": 76,
+        "followers": 10425449
+    },
+    {
+        "id": "7HCqGPJcQTyGJ2yqntbuyr",
+        "name": "Amit Trivedi",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi",
+            "gujarati garba",
+            "gujarati pop"
+        ],
+        "popularity": 76,
+        "followers": 10025150
+    },
+    {
+        "id": "4QQgXkCYTt3BlENzhyNETg",
+        "name": "Earth, Wind & Fire",
+        "genres": [
+            "disco"
+        ],
+        "popularity": 76,
+        "followers": 4815577
+    },
+    {
+        "id": "2rTo8KIkBTFjQS7VvaKYQ4",
+        "name": "W&W",
+        "genres": [
+            "big room",
+            "edm"
+        ],
+        "popularity": 76,
+        "followers": 910983
+    },
+    {
+        "id": "085pc2PYOi8bGKj0PNjekA",
+        "name": "will.i.am",
+        "genres": [],
+        "popularity": 76,
+        "followers": 4364394
+    },
+    {
+        "id": "6CwfuxIqcltXDGjfZsMd9A",
+        "name": "MARINA",
+        "genres": [],
+        "popularity": 76,
+        "followers": 5998006
+    },
+    {
+        "id": "77tT1kLj6mCWtFNqiOmP9H",
+        "name": "Daryl Hall & John Oates",
+        "genres": [
+            "soft rock"
+        ],
+        "popularity": 76,
+        "followers": 2706832
+    },
+    {
+        "id": "4gvjmrtzydbMpyJaXUtwvP",
+        "name": "Addison Rae",
+        "genres": [],
+        "popularity": 75,
+        "followers": 876873
+    },
+    {
+        "id": "2wUjUUtkb5lvLKcGKsKqsR",
+        "name": "Alessia Cara",
+        "genres": [],
+        "popularity": 75,
+        "followers": 12121015
+    },
+    {
+        "id": "68KmkJeZGfwe1OUaivBa2L",
+        "name": "ATEEZ",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 75,
+        "followers": 4814880
+    },
+    {
+        "id": "5IH6FPUwQTxPSXurCrcIov",
+        "name": "Alec Benjamin",
+        "genres": [],
+        "popularity": 75,
+        "followers": 5461912
+    },
+    {
+        "id": "5RmQ8k4l3HZ8JoPb4mNsML",
+        "name": "Agust D",
+        "genres": [
+            "k-pop",
+            "k-rap"
+        ],
+        "popularity": 75,
+        "followers": 15122604
+    },
+    {
+        "id": "4KWTAlx2RvbpseOGMEmROg",
+        "name": "R.E.M.",
+        "genres": [
+            "jangle pop",
+            "alternative rock",
+            "rock"
+        ],
+        "popularity": 75,
+        "followers": 5114830
+    },
+    {
+        "id": "4mxWe1mtYIYfP040G38yvS",
+        "name": "Alan Jackson",
+        "genres": [
+            "country",
+            "christian country"
+        ],
+        "popularity": 75,
+        "followers": 3157130
+    },
+    {
+        "id": "7y97mc3bZRFXzT2szRM4L4",
+        "name": "Frédéric Chopin",
+        "genres": [
+            "classical piano",
+            "classical"
+        ],
+        "popularity": 75,
+        "followers": 3493987
+    },
+    {
+        "id": "41ESHLayJ5sDKjAOv6cMhe",
+        "name": "Ana Gabriel",
+        "genres": [
+            "mariachi",
+            "ranchera"
+        ],
+        "popularity": 75,
+        "followers": 5193546
+    },
+    {
+        "id": "4gdMJYnopf2nEUcanAwstx",
+        "name": "Anuv Jain",
+        "genres": [
+            "indian indie",
+            "hindi indie",
+            "hindi pop"
+        ],
+        "popularity": 75,
+        "followers": 6400248
+    },
+    {
+        "id": "6RHTUrRF63xao58xh9FXYJ",
+        "name": "IVE",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 75,
+        "followers": 5575079
+    },
+    {
+        "id": "5M9Bb4adKAgrOFOhc05Y50",
+        "name": "Pablo Alborán",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 75,
+        "followers": 5475993
+    },
+    {
+        "id": "73jBynjsVtofjRpdpRAJGk",
+        "name": "Dimitri Vegas & Like Mike",
+        "genres": [
+            "big room",
+            "electronica",
+            "edm",
+            "electro"
+        ],
+        "popularity": 75,
+        "followers": 3574124
+    },
+    {
+        "id": "1sPg5EHuQXTMElpZ4iUgXe",
+        "name": "ANAVITÓRIA",
+        "genres": [
+            "mpb",
+            "nova mpb",
+            "brazilian pop"
+        ],
+        "popularity": 74,
+        "followers": 7167845
+    },
+    {
+        "id": "2jzc5TC5TVFLXQlBNiIUzE",
+        "name": "a-ha",
+        "genres": [
+            "new wave",
+            "synthpop"
+        ],
+        "popularity": 74,
+        "followers": 2705511
+    },
+    {
+        "id": "0xliTEbFfy5HQHvsTknTkX",
+        "name": "Alphaville",
+        "genres": [
+            "synthpop"
+        ],
+        "popularity": 74,
+        "followers": 1010696
+    },
+    {
+        "id": "4bYPcJP5jwMhSivRcqie2n",
+        "name": "Adam Levine",
+        "genres": [],
+        "popularity": 74,
+        "followers": 1047386
+    },
+    {
+        "id": "5rkVyNGXEgeUqKkB5ccK83",
+        "name": "Ashanti",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 74,
+        "followers": 3418613
+    },
+    {
+        "id": "6mdiAmATAx73kdxrNrnlao",
+        "name": "Iron Maiden",
+        "genres": [
+            "heavy metal",
+            "metal",
+            "hard rock",
+            "rock"
+        ],
+        "popularity": 74,
+        "followers": 9966227
+    },
+    {
+        "id": "4IKVDbCSBTxBeAsMKjAuTs",
+        "name": "Armaan Malik",
+        "genres": [
+            "hindi pop",
+            "bollywood",
+            "kannada pop",
+            "tollywood",
+            "telugu pop"
+        ],
+        "popularity": 74,
+        "followers": 23135704
+    },
+    {
+        "id": "36cgvBn0aadzOijnjjwqMN",
+        "name": "ILLIT",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 74,
+        "followers": 2701547
+    },
+    {
+        "id": "44NX2ffIYHr6D4n7RaZF7A",
+        "name": "Van Morrison",
+        "genres": [],
+        "popularity": 74,
+        "followers": 3473197
+    },
+    {
+        "id": "6PAt558ZEZl0DmdXlnjMgD",
+        "name": "Eric Clapton",
+        "genres": [
+            "blues",
+            "blues rock",
+            "classic rock"
+        ],
+        "popularity": 74,
+        "followers": 6348685
+    },
+    {
+        "id": "4iBwchw0U0GZv5RfVYSMxN",
+        "name": "Anyma",
+        "genres": [
+            "melodic techno",
+            "melodic house",
+            "techno",
+            "stutter house"
+        ],
+        "popularity": 73,
+        "followers": 701286
+    },
+    {
+        "id": "7hQmAXAzWI6D350VTgkKTG",
+        "name": "Arash",
+        "genres": [
+            "afro house"
+        ],
+        "popularity": 73,
+        "followers": 285018
+    },
+    {
+        "id": "2ziB7fzrXBoh1HUPS6sVFn",
+        "name": "Audioslave",
+        "genres": [
+            "grunge",
+            "post-grunge",
+            "alternative metal"
+        ],
+        "popularity": 73,
+        "followers": 4913812
+    },
+    {
+        "id": "7M5pDtJpCdnftEQZtczYco",
+        "name": "Ayesha Erotica",
+        "genres": [
+            "hyperpop"
+        ],
+        "popularity": 73,
+        "followers": 1603474
+    },
+    {
+        "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+        "name": "Air Supply",
+        "genres": [
+            "soft rock"
+        ],
+        "popularity": 73,
+        "followers": 4971296
+    },
+    {
+        "id": "6s22t5Y3prQHyaHWUN1R1C",
+        "name": "AJR",
+        "genres": [],
+        "popularity": 73,
+        "followers": 3580352
+    },
+    {
+        "id": "5rjz63sgMaAUAyBMyCUK5D",
+        "name": "Avery Anna",
+        "genres": [],
+        "popularity": 73,
+        "followers": 203967
+    },
+    {
+        "id": "3tAICgiSR5PfYY4B8qsoAU",
+        "name": "Andrés Calamaro",
+        "genres": [
+            "argentine rock",
+            "rock en español",
+            "latin rock"
+        ],
+        "popularity": 73,
+        "followers": 2733316
+    },
+    {
+        "id": "3ozYqVCLohfpXIhalkhM8D",
+        "name": "Aditya Rikhari",
+        "genres": [
+            "hindi indie",
+            "indian indie",
+            "desi pop"
+        ],
+        "popularity": 73,
+        "followers": 720049
+    },
+    {
+        "id": "2rEVnwCPBeGkWMv425KoG1",
+        "name": "AYLIVA",
+        "genres": [
+            "german pop"
+        ],
+        "popularity": 73,
+        "followers": 2100528
+    },
+    {
+        "id": "76fuWYgIf3TVIopTs3vaJ6",
+        "name": "Amaal Mallik",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi"
+        ],
+        "popularity": 73,
+        "followers": 4562728
+    },
+    {
+        "id": "6LnJKrtFnTEGdbWQ2riWCL",
+        "name": "Ezhel",
+        "genres": [
+            "turkish hip hop",
+            "turkish pop"
+        ],
+        "popularity": 73,
+        "followers": 6617759
+    },
+    {
+        "id": "5as8A4G47Ohu9NSWs3Je8U",
+        "name": "Asha Bhosle",
+        "genres": [
+            "ghazal",
+            "marathi pop",
+            "bangla pop",
+            "bollywood",
+            "hindi pop"
+        ],
+        "popularity": 73,
+        "followers": 9276702
+    },
+    {
+        "id": "2AfmfGFbe0A0WsTYm0SDTx",
+        "name": "i-dle",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 73,
+        "followers": 10588029
+    },
+    {
+        "id": "11p2E654TTU8e0nZWBR4AL",
+        "name": "Mark Ambor",
+        "genres": [],
+        "popularity": 73,
+        "followers": 627219
+    },
+    {
+        "id": "2d0hyoQ5ynDBnkvAbJKORj",
+        "name": "Rage Against The Machine",
+        "genres": [
+            "rap metal",
+            "rap rock",
+            "alternative metal",
+            "nu metal"
+        ],
+        "popularity": 73,
+        "followers": 6608809
+    },
+    {
+        "id": "77AiFEVeAVj2ORpC85QVJs",
+        "name": "Steve Aoki",
+        "genres": [
+            "electro house",
+            "edm"
+        ],
+        "popularity": 73,
+        "followers": 3809612
+    },
+    {
+        "id": "5a2EaR3hamoenG9rDuVn8j",
+        "name": "Prince",
+        "genres": [
+            "funk rock"
+        ],
+        "popularity": 73,
+        "followers": 7692598
+    },
+    {
+        "id": "5sXaGoRLSpd7VeyZrLkKwt",
+        "name": "Gregory Alan Isakov",
+        "genres": [
+            "indie folk",
+            "folk",
+            "folk pop"
+        ],
+        "popularity": 73,
+        "followers": 1069136
+    },
+    {
+        "id": "6Wr3hh341P84m3EI8qdn9O",
+        "name": "Rise Against",
+        "genres": [
+            "punk",
+            "hardcore punk"
+        ],
+        "popularity": 73,
+        "followers": 2878575
+    },
+    {
+        "id": "0eVyjRhzZKke2KFYTcDkeu",
+        "name": "The Alchemist",
+        "genres": [
+            "alternative hip hop",
+            "jazz rap",
+            "experimental hip hop",
+            "boom bap"
+        ],
+        "popularity": 72,
+        "followers": 829571
+    },
+    {
+        "id": "3EA9hVIzKfFiQI0Kikz2wo",
+        "name": "Andrea Bocelli",
+        "genres": [
+            "opera"
+        ],
+        "popularity": 72,
+        "followers": 3082736
+    },
+    {
+        "id": "5MspMQqdVbdwP6ax3GXqum",
+        "name": "Annie Lennox",
+        "genres": [
+            "synthpop"
+        ],
+        "popularity": 72,
+        "followers": 1676909
+    },
+    {
+        "id": "2QOIawHpSlOwXDvSqQ9YJR",
+        "name": "Antonio Vivaldi",
+        "genres": [
+            "classical"
+        ],
+        "popularity": 72,
+        "followers": 2658264
+    },
+    {
+        "id": "7IlRNXHjoOCgEAWN5qYksg",
+        "name": "Aya Nakamura",
+        "genres": [
+            "pop urbaine"
+        ],
+        "popularity": 72,
+        "followers": 5254646
+    },
+    {
+        "id": "5dHt1vcEm9qb8fCyLcB3HL",
+        "name": "A$AP Ferg",
+        "genres": [
+            "rap"
+        ],
+        "popularity": 72,
+        "followers": 4203866
+    },
+    {
+        "id": "3PyJHH2wyfQK3WZrk9rpmP",
+        "name": "Ashnikko",
+        "genres": [],
+        "popularity": 72,
+        "followers": 2532845
+    },
+    {
+        "id": "4NiJW4q9ichVqL1aUsgGAN",
+        "name": "A Day To Remember",
+        "genres": [
+            "metalcore",
+            "post-hardcore",
+            "pop punk",
+            "screamo",
+            "emo",
+            "emo pop"
+        ],
+        "popularity": 72,
+        "followers": 2479496
+    },
+    {
+        "id": "2DspEsT7UXGKd2VaaedgG4",
+        "name": "Alex Rose",
+        "genres": [
+            "trap latino",
+            "reggaeton",
+            "urbano latino"
+        ],
+        "popularity": 72,
+        "followers": 4279409
+    },
+    {
+        "id": "61J0BktHv7PuP3tjTPYXSX",
+        "name": "Eros Ramazzotti",
+        "genres": [
+            "italo dance"
+        ],
+        "popularity": 72,
+        "followers": 2412557
+    },
+    {
+        "id": "1qQLhymHXFPtP5U8KNKsm6",
+        "name": "Apache 207",
+        "genres": [
+            "german hip hop"
+        ],
+        "popularity": 72,
+        "followers": 3224894
+    },
+    {
+        "id": "6v8FB84lnmJs434UJf2Mrm",
+        "name": "Neil Young",
+        "genres": [
+            "classic rock",
+            "folk rock",
+            "singer-songwriter",
+            "roots rock"
+        ],
+        "popularity": 72,
+        "followers": 3208711
+    },
+    {
+        "id": "2JEjaa7hWhE1BbL3OcoeFR",
+        "name": "Sujatha",
+        "genres": [
+            "malayalam pop",
+            "mollywood",
+            "tamil pop",
+            "telugu pop",
+            "kollywood"
+        ],
+        "popularity": 72,
+        "followers": 3370713
+    },
+    {
+        "id": "5kVZa4lFUmAQlBogl1fkd6",
+        "name": "Aimyon",
+        "genres": [
+            "j-pop"
+        ],
+        "popularity": 72,
+        "followers": 5787860
+    },
+    {
+        "id": "4fdCGYM7dtJLa3LvR1ccto",
+        "name": "Gabriela Rocha",
+        "genres": [
+            "gospel",
+            "brazilian gospel",
+            "worship",
+            "devotional"
+        ],
+        "popularity": 72,
+        "followers": 8337612
+    },
+    {
+        "id": "3NPpFNZtSTHheNBaWC82rB",
+        "name": "X Ambassadors",
+        "genres": [],
+        "popularity": 72,
+        "followers": 3080215
+    },
+    {
+        "id": "70cRZdQywnSFp9pnc2WTCE",
+        "name": "Simon & Garfunkel",
+        "genres": [
+            "folk rock",
+            "folk"
+        ],
+        "popularity": 72,
+        "followers": 5714808
+    },
+    {
+        "id": "3jNkaOXasoc7RsxdchvEVq",
+        "name": "Chase & Status",
+        "genres": [
+            "drum and bass",
+            "jungle"
+        ],
+        "popularity": 72,
+        "followers": 1149365
+    },
+    {
+        "id": "3XHO7cRUPCLOr6jwp8vsx5",
+        "name": "alt-J",
+        "genres": [
+            "indie",
+            "indie rock"
+        ],
+        "popularity": 71,
+        "followers": 3403893
+    },
+    {
+        "id": "6ogn9necmbUdCppmNnGOdi",
+        "name": "Alanis Morissette",
+        "genres": [],
+        "popularity": 71,
+        "followers": 3065586
+    },
+    {
+        "id": "7nwUJBm0HE4ZxD3f5cy5ok",
+        "name": "Aretha Franklin",
+        "genres": [
+            "soul",
+            "motown",
+            "jazz blues"
+        ],
+        "popularity": 71,
+        "followers": 3674022
+    },
+    {
+        "id": "19eLuQmk9aCobbVDHc6eek",
+        "name": "Louis Armstrong",
+        "genres": [
+            "jazz",
+            "swing music",
+            "big band",
+            "vocal jazz",
+            "jazz blues"
+        ],
+        "popularity": 71,
+        "followers": 3142442
+    },
+    {
+        "id": "5ksRONqssB7BR161NTtJAm",
+        "name": "Ace of Base",
+        "genres": [
+            "eurodance",
+            "europop"
+        ],
+        "popularity": 71,
+        "followers": 1015415
+    },
+    {
+        "id": "2oX42qP5ineK3hrhBECLmj",
+        "name": "Andy Grammer",
+        "genres": [],
+        "popularity": 71,
+        "followers": 1306429
+    },
+    {
+        "id": "46gyXjRIvN1NL1eCB8GBxo",
+        "name": "All Time Low",
+        "genres": [
+            "pop punk",
+            "emo",
+            "emo pop",
+            "punk"
+        ],
+        "popularity": 71,
+        "followers": 3140993
+    },
+    {
+        "id": "5mnS9jJdKQQcRSqFu5YPVe",
+        "name": "Auli'i Cravalho",
+        "genres": [],
+        "popularity": 71,
+        "followers": 225050
+    },
+    {
+        "id": "0lI3rF4hi4op6UxqlLHPzv",
+        "name": "Achille Lauro",
+        "genres": [
+            "italian trap"
+        ],
+        "popularity": 71,
+        "followers": 1119426
+    },
+    {
+        "id": "5abSRg0xN1NV3gLbuvX24M",
+        "name": "Amr Diab",
+        "genres": [
+            "egyptian pop",
+            "khaleeji"
+        ],
+        "popularity": 71,
+        "followers": 9636941
+    },
+    {
+        "id": "7Hf9AwMO37bSdxHb0FBGmO",
+        "name": "Alejandra Guzman",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 71,
+        "followers": 4099244
+    },
+    {
+        "id": "6FXMGgJwohJLUSr5nVlf9X",
+        "name": "Massive Attack",
+        "genres": [
+            "trip hop",
+            "downtempo"
+        ],
+        "popularity": 71,
+        "followers": 2501152
+    },
+    {
+        "id": "1z4g3DjTBBZKhvAroFlhOM",
+        "name": "Red Velvet",
+        "genres": [
+            "k-pop"
+        ],
+        "popularity": 71,
+        "followers": 9507307
+    },
+    {
+        "id": "5ZqnEfVdEGmoPxtELhN7ai",
+        "name": "Estopa",
+        "genres": [
+            "flamenco",
+            "flamenco pop"
+        ],
+        "popularity": 71,
+        "followers": 2302718
+    },
+    {
+        "id": "3HqSLMAZ3g3d5poNaI7GOU",
+        "name": "IU",
+        "genres": [
+            "k-pop",
+            "k-ballad"
+        ],
+        "popularity": 71,
+        "followers": 9190504
+    },
+    {
+        "id": "3VNITwohbvU5Wuy5PC6dsI",
+        "name": "Kool & The Gang",
+        "genres": [
+            "disco",
+            "funk"
+        ],
+        "popularity": 71,
+        "followers": 2705121
+    },
+    {
+        "id": "1pi7nGhOM7PTHR5YEgXVGq",
+        "name": "Villano Antillano",
+        "genres": [
+            "neoperreo"
+        ],
+        "popularity": 71,
+        "followers": 331502
+    },
+    {
+        "id": "13saZpZnCDWOI9D4IJhp1f",
+        "name": "Lily Allen",
+        "genres": [],
+        "popularity": 71,
+        "followers": 2152094
+    },
+    {
+        "id": "5yG7ZAZafVaAlMTeBybKAL",
+        "name": "Iggy Azalea",
+        "genres": [],
+        "popularity": 71,
+        "followers": 6762222
+    },
+    {
+        "id": "3ZztVuWxHzNpl0THurTFCv",
+        "name": "Architects",
+        "genres": [
+            "metalcore",
+            "djent",
+            "metal",
+            "post-hardcore",
+            "deathcore"
+        ],
+        "popularity": 70,
+        "followers": 1155706
+    },
+    {
+        "id": "3pO5VjZ4wOHCMBXOvbMISG",
+        "name": "Antônio Carlos Jobim",
+        "genres": [
+            "bossa nova",
+            "brazilian jazz",
+            "mpb",
+            "latin jazz"
+        ],
+        "popularity": 70,
+        "followers": 824613
+    },
+    {
+        "id": "1xNmvlEiICkRlRGqlNFZ43",
+        "name": "Axwell",
+        "genres": [
+            "edm"
+        ],
+        "popularity": 70,
+        "followers": 1514756
+    },
+    {
+        "id": "1Uff91EOsvd99rtAupatMP",
+        "name": "Claude Debussy",
+        "genres": [
+            "classical piano",
+            "classical"
+        ],
+        "popularity": 70,
+        "followers": 1617249
+    },
+    {
+        "id": "4Xi6LSfFqv26XgP9NKN26U",
+        "name": "AJ Tracey",
+        "genres": [
+            "grime",
+            "uk drill",
+            "drill"
+        ],
+        "popularity": 70,
+        "followers": 1394886
+    },
+    {
+        "id": "2z2TRvloJt4EfUNQp9rHAi",
+        "name": "Alonzo",
+        "genres": [
+            "pop urbaine"
+        ],
+        "popularity": 70,
+        "followers": 2114950
+    },
+    {
+        "id": "660YptcR0hNHJ8iEr1qcse",
+        "name": "Anthony Ramos",
+        "genres": [],
+        "popularity": 70,
+        "followers": 158471
+    },
+    {
+        "id": "7IfculRW2WXyzNQ8djX8WX",
+        "name": "Erykah Badu",
+        "genres": [
+            "neo soul",
+            "r&b"
+        ],
+        "popularity": 70,
+        "followers": 3129651
+    },
+    {
+        "id": "3vAaWhdBR38Q02ohXqaNHT",
+        "name": "The All-American Rejects",
+        "genres": [
+            "pop punk",
+            "emo",
+            "emo pop"
+        ],
+        "popularity": 70,
+        "followers": 2823681
+    },
+    {
+        "id": "3abT87tqQ4Q5PA5nw6CYyH",
+        "name": "Ángela Aguilar",
+        "genres": [
+            "mariachi",
+            "ranchera",
+            "banda",
+            "música mexicana"
+        ],
+        "popularity": 70,
+        "followers": 1175793
+    },
+    {
+        "id": "3A5tHz1SfngyOZM2gItYKu",
+        "name": "Earl Sweatshirt",
+        "genres": [
+            "experimental hip hop",
+            "alternative hip hop"
+        ],
+        "popularity": 70,
+        "followers": 2353638
+    },
+    {
+        "id": "39KEQQAG9JhIt71g9NEVhh",
+        "name": "Azet",
+        "genres": [
+            "german hip hop"
+        ],
+        "popularity": 70,
+        "followers": 1471379
+    },
+    {
+        "id": "3Uobr6LgQpBbk6k4QGAb3V",
+        "name": "I Prevail",
+        "genres": [
+            "metalcore",
+            "metal"
+        ],
+        "popularity": 70,
+        "followers": 1713785
+    },
+    {
+        "id": "07QEuhtrNmmZ0zEcqE9SF6",
+        "name": "Owl City",
+        "genres": [],
+        "popularity": 70,
+        "followers": 2493694
+    },
+    {
+        "id": "4f9iBmdUOhQWeP7dcAn1pf",
+        "name": "Rag'n'Bone Man",
+        "genres": [],
+        "popularity": 70,
+        "followers": 2115719
+    },
+    {
+        "id": "7gcCQIlkkfbul5Mt0jBQkg",
+        "name": "Dave Stewart",
+        "genres": [],
+        "popularity": 70,
+        "followers": 65759
+    },
+    {
+        "id": "0f3EsoviYnRKTkmayI3cux",
+        "name": "Men At Work",
+        "genres": [],
+        "popularity": 70,
+        "followers": 1476139
+    },
+    {
+        "id": "1A9o3Ljt67pFZ89YtPPL5X",
+        "name": "Snoh Aalegra",
+        "genres": [
+            "alternative r&b"
+        ],
+        "popularity": 70,
+        "followers": 1354837
+    },
+    {
+        "id": "2NjfBq1NflQcKSeiDooVjY",
+        "name": "Tones And I",
+        "genres": [],
+        "popularity": 70,
+        "followers": 2977685
+    },
+    {
+        "id": "5RZjpmuD14JKXvB8Ry1G1u",
+        "name": "Amanda Seyfried",
+        "genres": [
+            "musicals"
+        ],
+        "popularity": 69,
+        "followers": 114178
+    },
+    {
+        "id": "3Gm5F95VdRxW3mqCn8RPBJ",
+        "name": "Aminé",
+        "genres": [],
+        "popularity": 69,
+        "followers": 1992090
+    },
+    {
+        "id": "09hVIj6vWgoCDtT03h8ZCa",
+        "name": "A Tribe Called Quest",
+        "genres": [
+            "jazz rap",
+            "east coast hip hop",
+            "hip hop"
+        ],
+        "popularity": 69,
+        "followers": 2327964
+    },
+    {
+        "id": "6P5NO5hzJbuOqSdyPB7SJM",
+        "name": "Ashe",
+        "genres": [],
+        "popularity": 69,
+        "followers": 2160813
+    },
+    {
+        "id": "0TeVa4xdLB8vdzjsvKH6Ri",
+        "name": "Anahí",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 69,
+        "followers": 781485
+    },
+    {
+        "id": "2tY2GFdhH0Wa2VBvsxew5X",
+        "name": "Alex Ubago",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 69,
+        "followers": 2757411
+    },
+    {
+        "id": "1zxDewzd2j1ZdSBGaYcr0y",
+        "name": "The Outfield",
+        "genres": [],
+        "popularity": 69,
+        "followers": 747829
+    },
+    {
+        "id": "1VBflYyxBhnDc9uVib98rw",
+        "name": "Icona Pop",
+        "genres": [],
+        "popularity": 69,
+        "followers": 759751
+    },
+    {
+        "id": "5tKXB9uuebKE34yowVaU3C",
+        "name": "Iyaz",
+        "genres": [],
+        "popularity": 69,
+        "followers": 1091964
+    },
+    {
+        "id": "7CQwac16i1W5ej8YpuL3dv",
+        "name": "Boyce Avenue",
+        "genres": [
+            "acoustic pop"
+        ],
+        "popularity": 69,
+        "followers": 3075163
+    },
+    {
+        "id": "1Y2FwScblyMxpLTrNdfwyU",
+        "name": "Ahmet Kaya",
+        "genres": [
+            "arabesk",
+            "anatolian rock"
+        ],
+        "popularity": 69,
+        "followers": 6596946
+    },
+    {
+        "id": "2mxe0TnaNL039ysAj51xPQ",
+        "name": "R. Kelly",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 69,
+        "followers": 2475318
+    },
+    {
+        "id": "7mEIug7XUlQHikrFxjTWes",
+        "name": "Neil Diamond",
+        "genres": [],
+        "popularity": 69,
+        "followers": 3109940
+    },
+    {
+        "id": "7cjh6y0V9SsyCrWSXTzwOs",
+        "name": "RBD",
+        "genres": [
+            "latin pop"
+        ],
+        "popularity": 69,
+        "followers": 2049920
+    },
+    {
+        "id": "0MeLMJJcouYXCymQSHPn8g",
+        "name": "Sleeping At Last",
+        "genres": [],
+        "popularity": 69,
+        "followers": 1517131
+    },
+    {
+        "id": "1eYhYunlNJlDoQhtYBvPsi",
+        "name": "Ray Charles",
+        "genres": [
+            "jazz blues",
+            "soul",
+            "soul blues",
+            "blues",
+            "vocal jazz"
+        ],
+        "popularity": 69,
+        "followers": 2518206
+    },
+    {
+        "id": "3kjuyTCjPG1WMFCiyc5IuB",
+        "name": "Arcade Fire",
+        "genres": [
+            "indie rock",
+            "baroque pop"
+        ],
+        "popularity": 68,
+        "followers": 2376036
+    },
+    {
+        "id": "74V3dE1a51skRkdII8y2C6",
+        "name": "André 3000",
+        "genres": [],
+        "popularity": 68,
+        "followers": 644680
+    },
+    {
+        "id": "77CaCn32H4mOMQA7UElzfF",
+        "name": "Academy of St. Martin in the Fields",
+        "genres": [
+            "classical",
+            "chamber music",
+            "orchestra"
+        ],
+        "popularity": 68,
+        "followers": 64371
+    },
+    {
+        "id": "3dkbV4qihUeMsqN4vBGg93",
+        "name": "Al Green",
+        "genres": [
+            "soul",
+            "motown",
+            "soul blues"
+        ],
+        "popularity": 68,
+        "followers": 2176711
+    },
+    {
+        "id": "25jJ6vyXwTRa0e6XCcdR6U",
+        "name": "Ari Abdul",
+        "genres": [],
+        "popularity": 68,
+        "followers": 663710
+    },
+    {
+        "id": "4rTv3Ejc7hKMtmoBOK1B4T",
+        "name": "Ali Gatie",
+        "genres": [],
+        "popularity": 68,
+        "followers": 2142395
+    },
+    {
+        "id": "5QWt56OIzFSPRpD7VeRkbc",
+        "name": "AXMO",
+        "genres": [
+            "big room",
+            "hardstyle",
+            "hypertechno"
+        ],
+        "popularity": 68,
+        "followers": 79698
+    },
+    {
+        "id": "0urTpYCsixqZwgNTkPJOJ4",
+        "name": "Aaliyah",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 68,
+        "followers": 4860598
+    },
+    {
+        "id": "23xqmJEN3oVxwzqtNIyR5m",
+        "name": "AnnenMayKantereit",
+        "genres": [
+            "german pop"
+        ],
+        "popularity": 68,
+        "followers": 2101409
+    },
+    {
+        "id": "7tU1VKOuxiNZwBZC6RHidA",
+        "name": "Alexis y Fido",
+        "genres": [
+            "reggaeton",
+            "urbano latino"
+        ],
+        "popularity": 68,
+        "followers": 5310471
+    },
+    {
+        "id": "5V0MlUE1Bft0mbLlND7FJz",
+        "name": "Ella Fitzgerald",
+        "genres": [
+            "vocal jazz",
+            "jazz",
+            "swing music",
+            "jazz blues",
+            "big band",
+            "christmas"
+        ],
+        "popularity": 68,
+        "followers": 2660270
+    },
+    {
+        "id": "6HTUcOExehqydqa7C3usAa",
+        "name": "Abel Pintos",
+        "genres": [
+            "folklore argentino",
+            "cuarteto"
+        ],
+        "popularity": 68,
+        "followers": 3596256
+    },
+    {
+        "id": "0WI8OfWCRvK4nGHmKfFQmd",
+        "name": "Alex Zurdo",
+        "genres": [
+            "christian",
+            "christian hip hop",
+            "christian pop"
+        ],
+        "popularity": 68,
+        "followers": 2418470
+    },
+    {
+        "id": "3HrbmsYpKjWH1lzhad7alj",
+        "name": "Los Auténticos Decadentes",
+        "genres": [
+            "argentine rock",
+            "latin rock",
+            "ska",
+            "rock en español",
+            "latin alternative"
+        ],
+        "popularity": 68,
+        "followers": 2368985
+    },
+    {
+        "id": "5ObQXIcqKtQENK14lQyqiy",
+        "name": "Anuradha Sriram",
+        "genres": [
+            "tamil dance",
+            "tamil pop",
+            "kannada pop",
+            "kollywood"
+        ],
+        "popularity": 68,
+        "followers": 2003760
+    },
+    {
+        "id": "1XYuC1vxinTjHCNd5clB8C",
+        "name": "ARASHI",
+        "genres": [
+            "j-pop"
+        ],
+        "popularity": 68,
+        "followers": 2656567
+    },
+    {
+        "id": "0jPHHnU8GUWEF7rwPE9osY",
+        "name": "Jordan Adetunji",
+        "genres": [
+            "sexy drill"
+        ],
+        "popularity": 68,
+        "followers": 303077
+    },
+    {
+        "id": "3h7RaVXBvdSNa7LXQtVYqH",
+        "name": "Armandinho",
+        "genres": [
+            "reggae",
+            "mpb"
+        ],
+        "popularity": 67,
+        "followers": 1386984
+    },
+    {
+        "id": "3BkRu2TGd2I1uBxZKddfg1",
+        "name": "ARTBAT",
+        "genres": [
+            "melodic techno",
+            "melodic house",
+            "techno",
+            "progressive house"
+        ],
+        "popularity": 67,
+        "followers": 492276
+    },
+    {
+        "id": "5Wg2b4Mp42gicxEeDNawf7",
+        "name": "A7S",
+        "genres": [],
+        "popularity": 67,
+        "followers": 77701
+    },
+    {
+        "id": "2XnBwblw31dfGnspMIwgWz",
+        "name": "Axwell /\\ Ingrosso",
+        "genres": [],
+        "popularity": 67,
+        "followers": 2512556
+    },
+    {
+        "id": "4tvKz56Tr39bkhcQUTO0Xr",
+        "name": "Angus & Julia Stone",
+        "genres": [],
+        "popularity": 67,
+        "followers": 1317017
+    },
+    {
+        "id": "4mrBetqy378Jf1y6NLszlx",
+        "name": "VINAI",
+        "genres": [
+            "melbourne bounce",
+            "slap house",
+            "big room"
+        ],
+        "popularity": 67,
+        "followers": 502421
+    },
+    {
+        "id": "1mSJCvDX0W7Dn7S9C6vmvI",
+        "name": "Anna of the North",
+        "genres": [],
+        "popularity": 67,
+        "followers": 249389
+    },
+    {
+        "id": "21UPYSRWFKwtqvSAnFnSvS",
+        "name": "Amaarae",
+        "genres": [
+            "alté",
+            "afrobeats"
+        ],
+        "popularity": 67,
+        "followers": 524281
+    },
+    {
+        "id": "459INk8vcC0ebEef82WjIK",
+        "name": "Erik Satie",
+        "genres": [
+            "classical piano",
+            "classical"
+        ],
+        "popularity": 67,
+        "followers": 910578
+    },
+    {
+        "id": "6kBDZFXuLrZgHnvmPu9NsG",
+        "name": "Aphex Twin",
+        "genres": [
+            "idm",
+            "ambient",
+            "electronica"
+        ],
+        "popularity": 67,
+        "followers": 1666741
+    },
+    {
+        "id": "0MlOPi3zIDMVrfA9R04Fe3",
+        "name": "American Authors",
+        "genres": [],
+        "popularity": 67,
+        "followers": 1628117
+    },
+    {
+        "id": "3ICflSq6ZgYAIrm2CTkfVP",
+        "name": "The Animals",
+        "genres": [
+            "classic rock"
+        ],
+        "popularity": 67,
+        "followers": 2573054
+    },
+    {
+        "id": "6kBjAFKyd0he7LiA5GQ3Gz",
+        "name": "Aqua",
+        "genres": [
+            "europop",
+            "eurodance"
+        ],
+        "popularity": 67,
+        "followers": 728870
+    },
+    {
+        "id": "6k8mwkKJKKjBILo7ypBspl",
+        "name": "Ana Mena",
+        "genres": [],
+        "popularity": 67,
+        "followers": 1036325
+    },
+    {
+        "id": "1caBfBEapzw8z2Qz9q0OaQ",
+        "name": "Asking Alexandria",
+        "genres": [
+            "metalcore",
+            "screamo",
+            "post-hardcore",
+            "metal",
+            "emo",
+            "emocore"
+        ],
+        "popularity": 67,
+        "followers": 2367208
+    },
+    {
+        "id": "3QVolfxko2UyCOtexhVTli",
+        "name": "Angèle",
+        "genres": [
+            "french pop",
+            "variété française",
+            "chanson",
+            "french indie pop"
+        ],
+        "popularity": 67,
+        "followers": 2771668
+    },
+    {
+        "id": "3AVfmawzu83sp94QW7CEGm",
+        "name": "Astrid S",
+        "genres": [
+            "norwegian pop"
+        ],
+        "popularity": 67,
+        "followers": 1369895
+    },
+    {
+        "id": "7hIqJfRYGBWWT1Qxu6Cpd2",
+        "name": "Andy Rivera",
+        "genres": [
+            "reggaeton",
+            "popular colombian music",
+            "trap latino"
+        ],
+        "popularity": 67,
+        "followers": 3037130
+    },
+    {
+        "id": "6kq4GHwUcUojGIu0ziSNXf",
+        "name": "Amenazzy",
+        "genres": [
+            "trap latino",
+            "reggaeton",
+            "dembow",
+            "urbano latino"
+        ],
+        "popularity": 67,
+        "followers": 3303593
+    },
+    {
+        "id": "49Z1AvGeUaBSanPaOmplK6",
+        "name": "Andrés Cepeda",
+        "genres": [
+            "colombian pop",
+            "latin pop"
+        ],
+        "popularity": 67,
+        "followers": 3654167
+    },
+    {
+        "id": "7oEkUINVIj1Nr3Wnj8tzqr",
+        "name": "Gilberto Gil",
+        "genres": [
+            "mpb",
+            "bossa nova",
+            "samba",
+            "brazilian jazz"
+        ],
+        "popularity": 67,
+        "followers": 1456660
+    },
+    {
+        "id": "43qxAkuKFB6fMNSeS5dO7Z",
+        "name": "Ana Bárbara",
+        "genres": [
+            "grupera"
+        ],
+        "popularity": 67,
+        "followers": 1582676
+    },
+    {
+        "id": "4tujQJicOnuZRLiBFdp3Ou",
+        "name": "Xzibit",
+        "genres": [
+            "west coast hip hop",
+            "gangster rap",
+            "g-funk",
+            "hardcore hip hop",
+            "hip hop"
+        ],
+        "popularity": 67,
+        "followers": 2194166
+    },
+    {
+        "id": "71hjb5G92mGoKRSAW3Cj00",
+        "name": "Anu Malik",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi"
+        ],
+        "popularity": 67,
+        "followers": 5913899
+    },
+    {
+        "id": "07SFzTMeYf5P8Rd32a9Zzw",
+        "name": "AK AUSSERKONTROLLE",
+        "genres": [
+            "german hip hop"
+        ],
+        "popularity": 67,
+        "followers": 1050448
+    },
+    {
+        "id": "6rJqqRce0Kvo2dJUXoHleC",
+        "name": "Alabama",
+        "genres": [
+            "country",
+            "country rock",
+            "christian country"
+        ],
+        "popularity": 67,
+        "followers": 1573810
+    },
+    {
+        "id": "4ckLjJztj53Ifid7WHweBn",
+        "name": "Aleyna Tilki",
+        "genres": [
+            "turkish pop",
+            "t-pop"
+        ],
+        "popularity": 67,
+        "followers": 1086849
+    },
+    {
+        "id": "47uyFQHOD02S0lj9ptRpoB",
+        "name": "Felipe Araújo",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "pagode",
+            "arrocha"
+        ],
+        "popularity": 67,
+        "followers": 5751691
+    },
+    {
+        "id": "5fvTHKKzW44A9867nPDocM",
+        "name": "Ajay-Atul",
+        "genres": [
+            "marathi pop",
+            "bollywood",
+            "hindi pop",
+            "bhajan",
+            "devotional",
+            "desi"
+        ],
+        "popularity": 67,
+        "followers": 4402671
+    },
+    {
+        "id": "55vs7NT1KxcFjbMC4y202E",
+        "name": "REO Speedwagon",
+        "genres": [
+            "soft rock",
+            "album rock",
+            "classic rock"
+        ],
+        "popularity": 67,
+        "followers": 2787856
+    },
+    {
+        "id": "1P6U1dCeHxPui5pIrGmndZ",
+        "name": "Air",
+        "genres": [
+            "trip hop",
+            "downtempo"
+        ],
+        "popularity": 66,
+        "followers": 1086451
+    },
+    {
+        "id": "2aKyKSggb31Kw9s9i3iXoo",
+        "name": "Aline Barros",
+        "genres": [
+            "gospel",
+            "lullaby",
+            "brazilian gospel",
+            "children's music",
+            "worship",
+            "pentecostal"
+        ],
+        "popularity": 66,
+        "followers": 5838065
+    },
+    {
+        "id": "7jZM5w05mGhw6wTB1okhD9",
+        "name": "ATB",
+        "genres": [
+            "trance"
+        ],
+        "popularity": 66,
+        "followers": 433285
+    },
+    {
+        "id": "3hJv5p2HwekJysNB2NDnEC",
+        "name": "André Rieu",
+        "genres": [
+            "classical",
+            "orchestra"
+        ],
+        "popularity": 66,
+        "followers": 1338470
+    },
+    {
+        "id": "2hgP9Ap2tc10R5jrQaEpMT",
+        "name": "Charles Aznavour",
+        "genres": [
+            "chanson",
+            "variété française",
+            "french jazz"
+        ],
+        "popularity": 66,
+        "followers": 1643768
+    },
+    {
+        "id": "6NUhQz7eAEsZvjEHTKHux9",
+        "name": "Sir Neville Marriner",
+        "genres": [
+            "classical",
+            "orchestra"
+        ],
+        "popularity": 66,
+        "followers": 34136
+    },
+    {
+        "id": "0id62QV2SZZfvBn9xpmuCl",
+        "name": "Aloe Blacc",
+        "genres": [],
+        "popularity": 66,
+        "followers": 744362
+    },
+    {
+        "id": "2bxxlINUlcMQQb39K7IopR",
+        "name": "Abraham Mateo",
+        "genres": [],
+        "popularity": 66,
+        "followers": 1575680
+    },
+    {
+        "id": "1hJuGCUpefX24GFmss9bjH",
+        "name": "Amy Macdonald",
+        "genres": [],
+        "popularity": 66,
+        "followers": 523524
+    },
+    {
+        "id": "4aP1lp10BRYZO658B2NwkG",
+        "name": "Andrew Lloyd Webber",
+        "genres": [
+            "musicals"
+        ],
+        "popularity": 66,
+        "followers": 338730
+    },
+    {
+        "id": "3cQA9WH8liZfeja1DxcDYE",
+        "name": "Armand Van Helden",
+        "genres": [
+            "disco house",
+            "funky house"
+        ],
+        "popularity": 66,
+        "followers": 291716
+    },
+    {
+        "id": "6xfqnpe2HnLVUaYXs2F8YS",
+        "name": "Anna Kendrick",
+        "genres": [
+            "children's music"
+        ],
+        "popularity": 66,
+        "followers": 384979
+    },
+    {
+        "id": "1x02ug1CLkx7mrQP9FRswh",
+        "name": "Amrinder Gill",
+        "genres": [
+            "bhangra",
+            "punjabi pop"
+        ],
+        "popularity": 66,
+        "followers": 4964291
+    },
+    {
+        "id": "6HclTVD03WSY6GUpN16BkP",
+        "name": "Claudio Abbado",
+        "genres": [
+            "classical",
+            "opera",
+            "requiem",
+            "orchestra"
+        ],
+        "popularity": 66,
+        "followers": 60628
+    },
+    {
+        "id": "7GacyaFUp0qkEJglERX9N7",
+        "name": "Alfa",
+        "genres": [],
+        "popularity": 66,
+        "followers": 954064
+    },
+    {
+        "id": "0bAsR2unSRpn6BQPEnNlZm",
+        "name": "Aimer",
+        "genres": [
+            "anime",
+            "j-pop",
+            "j-rock"
+        ],
+        "popularity": 66,
+        "followers": 2643695
+    },
+    {
+        "id": "6xrCU6zdcSTsG2hLrojpmI",
+        "name": "José González",
+        "genres": [
+            "indie folk"
+        ],
+        "popularity": 66,
+        "followers": 1208134
+    },
+    {
+        "id": "6Y4g5zwJI7jcRzGLXh0H5d",
+        "name": "Angela Leiva",
+        "genres": [
+            "cuarteto",
+            "cumbia"
+        ],
+        "popularity": 66,
+        "followers": 379157
+    },
+    {
+        "id": "0r8toju2ecKaVtItkzAnNi",
+        "name": "Aleks Syntek",
+        "genres": [
+            "latin pop",
+            "rock en español"
+        ],
+        "popularity": 66,
+        "followers": 1658806
+    },
+    {
+        "id": "6slyJwua5e5GuhuP82sTHR",
+        "name": "Alex Campos",
+        "genres": [
+            "christian",
+            "worship"
+        ],
+        "popularity": 66,
+        "followers": 2212440
+    },
+    {
+        "id": "0r0R5nIjDY04TfxRM10Bcb",
+        "name": "Alligatoah",
+        "genres": [
+            "german pop",
+            "german hip hop"
+        ],
+        "popularity": 66,
+        "followers": 1241871
+    },
+    {
+        "id": "4HF14RSTZQcEafvfPCFEpI",
+        "name": "Cristiano Araújo",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "arrocha"
+        ],
+        "popularity": 66,
+        "followers": 5415661
+    },
+    {
+        "id": "6a3WaWgxrVmNIvaiTCI0Kk",
+        "name": "Artigeardit",
+        "genres": [
+            "dansktop"
+        ],
+        "popularity": 66,
+        "followers": 110438
+    },
+    {
+        "id": "559vxOLTzlAv0zB77JMcdG",
+        "name": "Alceu Valença",
+        "genres": [
+            "mpb",
+            "forró",
+            "forro tradicional"
+        ],
+        "popularity": 65,
+        "followers": 1857806
+    },
+    {
+        "id": "4DFhHyjvGYa9wxdHUjtDkc",
+        "name": "A Perfect Circle",
+        "genres": [
+            "alternative metal"
+        ],
+        "popularity": 65,
+        "followers": 1999996
+    },
+    {
+        "id": "2tfWguHr2nj4e8KXLKciVq",
+        "name": "André Previn",
+        "genres": [
+            "classical",
+            "orchestra"
+        ],
+        "popularity": 65,
+        "followers": 39489
+    },
+    {
+        "id": "2m62cc253Xvd9qYQ8d2X3d",
+        "name": "The Alan Parsons Project",
+        "genres": [
+            "symphonic rock",
+            "progressive rock",
+            "classic rock"
+        ],
+        "popularity": 65,
+        "followers": 1616687
+    },
+    {
+        "id": "2tbvDi9eXf9XXp06LupkED",
+        "name": "Alice Deejay",
+        "genres": [
+            "eurodance",
+            "europop"
+        ],
+        "popularity": 65,
+        "followers": 190878
+    },
+    {
+        "id": "3TaUSUXn41GixL7zbvrIDt",
+        "name": "A-Trak",
+        "genres": [
+            "disco house"
+        ],
+        "popularity": 65,
+        "followers": 137610
+    },
+    {
+        "id": "7gRhy3MIPHQo5CXYfWaw9I",
+        "name": "Azealia Banks",
+        "genres": [
+            "ballroom vogue",
+            "hip house"
+        ],
+        "popularity": 65,
+        "followers": 1131751
+    },
+    {
+        "id": "0BmLNz4nSLfoWYW1cYsElL",
+        "name": "Alexandra Stan",
+        "genres": [],
+        "popularity": 65,
+        "followers": 415770
+    },
+    {
+        "id": "3EhbVgyfGd7HkpsagwL9GS",
+        "name": "Alice Cooper",
+        "genres": [
+            "glam rock",
+            "hard rock",
+            "glam metal",
+            "proto-punk",
+            "classic rock"
+        ],
+        "popularity": 65,
+        "followers": 3932593
+    },
+    {
+        "id": "7K5Lm5dxoEwEpOS0Fc3l3s",
+        "name": "Anaïs Mitchell",
+        "genres": [
+            "musicals"
+        ],
+        "popularity": 65,
+        "followers": 75162
+    },
+    {
+        "id": "6tOsSffQQIXmK8TqsDck8t",
+        "name": "Chico Buarque",
+        "genres": [
+            "mpb",
+            "bossa nova",
+            "samba",
+            "brazilian jazz"
+        ],
+        "popularity": 65,
+        "followers": 1650886
+    },
+    {
+        "id": "0EqkKYDK9EkKY5N7zU3FPv",
+        "name": "Annalisa",
+        "genres": [
+            "italo dance"
+        ],
+        "popularity": 65,
+        "followers": 1823690
+    },
+    {
+        "id": "4TH4BHy0LdBi3dpBW4P2UX",
+        "name": "R. City",
+        "genres": [],
+        "popularity": 65,
+        "followers": 202710
+    },
+    {
+        "id": "2ekjTXgjxbWwBX5lTAj4DU",
+        "name": "Eric Carmen",
+        "genres": [],
+        "popularity": 65,
+        "followers": 432135
+    },
+    {
+        "id": "4wQ3PyMz3WwJGI5uEqHUVR",
+        "name": "Allman Brothers Band",
+        "genres": [
+            "southern rock",
+            "classic rock",
+            "blues rock",
+            "country rock"
+        ],
+        "popularity": 65,
+        "followers": 1758149
+    },
+    {
+        "id": "2Wwiu1wnq1W8AMYbWuRFDH",
+        "name": "Arde Bogotá",
+        "genres": [
+            "indie"
+        ],
+        "popularity": 65,
+        "followers": 304859
+    },
+    {
+        "id": "4z0z82pXirH1TrygipQlOo",
+        "name": "Afsana Khan",
+        "genres": [
+            "desi",
+            "punjabi pop"
+        ],
+        "popularity": 65,
+        "followers": 374833
+    },
+    {
+        "id": "1g4J8P1JWwanNyyXckRX5W",
+        "name": "Adamlar",
+        "genres": [
+            "anatolian rock",
+            "turkish pop"
+        ],
+        "popularity": 65,
+        "followers": 2130393
+    },
+    {
+        "id": "1BYjhAClGpBTLZfics0VRZ",
+        "name": "Aastha Gill",
+        "genres": [
+            "bollywood",
+            "hindi pop",
+            "desi",
+            "desi pop"
+        ],
+        "popularity": 65,
+        "followers": 5454313
+    },
+    {
+        "id": "7E3BRXV9ZbCt5lQTCXMTia",
+        "name": "Ólafur Arnalds",
+        "genres": [
+            "neoclassical",
+            "minimalism"
+        ],
+        "popularity": 65,
+        "followers": 856787
+    },
+    {
+        "id": "0hPar6ePAELiu9rYMdvMEo",
+        "name": "Alcione",
+        "genres": [
+            "samba",
+            "pagode",
+            "mpb"
+        ],
+        "popularity": 64,
+        "followers": 1165791
+    },
+    {
+        "id": "6PTNNcLg90Kkl89JcEwKhT",
+        "name": "Alex Wann",
+        "genres": [
+            "afro house",
+            "melodic house"
+        ],
+        "popularity": 64,
+        "followers": 38011
+    },
+    {
+        "id": "2siHvYaxjaW5rKVRiIrMYH",
+        "name": "Anastacia",
+        "genres": [],
+        "popularity": 64,
+        "followers": 427568
+    },
+    {
+        "id": "4Lm0pUvmisUHMdoky5ch2I",
+        "name": "Apocalyptica",
+        "genres": [
+            "symphonic metal",
+            "symphonic rock"
+        ],
+        "popularity": 64,
+        "followers": 1121339
+    },
+    {
+        "id": "0e6qzpphJHtObTSwD75mi0",
+        "name": "The Avener",
+        "genres": [],
+        "popularity": 64,
+        "followers": 335108
+    },
+    {
+        "id": "5wTdspmxzb8V4ZjvDodpBo",
+        "name": "A Touch Of Class",
+        "genres": [
+            "europop",
+            "eurodance"
+        ],
+        "popularity": 64,
+        "followers": 55399
+    },
+    {
+        "id": "6yhD1KjhLxIETFF7vIRf8B",
+        "name": "Against The Current",
+        "genres": [
+            "pop punk"
+        ],
+        "popularity": 64,
+        "followers": 531062
+    },
+    {
+        "id": "58R31AvN8JMHM7xkNpVLjX",
+        "name": "Alexis Ffrench",
+        "genres": [
+            "neoclassical"
+        ],
+        "popularity": 64,
+        "followers": 183613
+    },
+    {
+        "id": "71jzN72g8qWMCMkWC5p1Z0",
+        "name": "Alexandre Desplat",
+        "genres": [
+            "soundtrack"
+        ],
+        "popularity": 64,
+        "followers": 338944
+    },
+    {
+        "id": "7BMccF0hQFBpP6417k1OtQ",
+        "name": "Action Bronson",
+        "genres": [
+            "east coast hip hop"
+        ],
+        "popularity": 64,
+        "followers": 864953
+    },
+    {
+        "id": "4njdEjTnLfcGImKZu1iSrz",
+        "name": "AWOLNATION",
+        "genres": [],
+        "popularity": 64,
+        "followers": 2079387
+    },
+    {
+        "id": "6hfwwpXqZPRC9CsKI7qtv1",
+        "name": "Alina Baraz",
+        "genres": [],
+        "popularity": 64,
+        "followers": 1421693
+    },
+    {
+        "id": "1eMmoIprPDWeFdB1FxU6ZV",
+        "name": "Au/Ra",
+        "genres": [],
+        "popularity": 64,
+        "followers": 581742
+    },
+    {
+        "id": "7ceUfdWq2t5nbatS6ollHh",
+        "name": "Paul Anka",
+        "genres": [
+            "adult standards"
+        ],
+        "popularity": 64,
+        "followers": 784207
+    },
+    {
+        "id": "61ipISvUVa5LkJlKZnm3Oo",
+        "name": "Alle Farben",
+        "genres": [],
+        "popularity": 64,
+        "followers": 362936
+    },
+    {
+        "id": "2VAnyOxzJuSAj7XIuEOT38",
+        "name": "AlunaGeorge",
+        "genres": [],
+        "popularity": 64,
+        "followers": 441864
+    },
+    {
+        "id": "6fMZytDgX1Q9OV6ndSugym",
+        "name": "Akapellah",
+        "genres": [
+            "latin hip hop"
+        ],
+        "popularity": 64,
+        "followers": 830607
+    },
+    {
+        "id": "19Fi1Rj7kk8kyiwxpXy3yM",
+        "name": "August Alsina",
+        "genres": [
+            "r&b"
+        ],
+        "popularity": 64,
+        "followers": 2734619
+    },
+    {
+        "id": "5delTPpDAtBDsjk60f5xnt",
+        "name": "Autumn!",
+        "genres": [
+            "underground hip hop"
+        ],
+        "popularity": 64,
+        "followers": 600646
+    },
+    {
+        "id": "3oZa8Xs6IjlIUGLAhVyK4G",
+        "name": "Irene Cara",
+        "genres": [],
+        "popularity": 64,
+        "followers": 516018
+    },
+    {
+        "id": "4M5nCE77Qaxayuhp3fVn4V",
+        "name": "Iron & Wine",
+        "genres": [
+            "indie folk",
+            "chamber pop",
+            "folk"
+        ],
+        "popularity": 64,
+        "followers": 1146265
+    },
+    {
+        "id": "75JvBeqW4BJ4xgnbMAq6MN",
+        "name": "Anne Wilson",
+        "genres": [
+            "christian country",
+            "christian",
+            "worship",
+            "ccm"
+        ],
+        "popularity": 64,
+        "followers": 351560
+    },
+    {
+        "id": "68rvMwPL0yMbYR5cv0pzCR",
+        "name": "Elissa",
+        "genres": [
+            "egyptian pop",
+            "khaleeji"
+        ],
+        "popularity": 64,
+        "followers": 4899553
+    },
+    {
+        "id": "5MbNzCW3qokGyoo9giHA3V",
+        "name": "EARTHGANG",
+        "genres": [],
+        "popularity": 64,
+        "followers": 899573
+    },
+    {
+        "id": "1NiC1V6xc8OR1ERiIoCvtx",
+        "name": "Los Angeles Negros",
+        "genres": [
+            "bolero",
+            "grupera"
+        ],
+        "popularity": 64,
+        "followers": 1368711
+    },
+    {
+        "id": "0kJO65h553i1iGsZutBuqz",
+        "name": "Adnan Sami",
+        "genres": [
+            "sufi",
+            "qawwali",
+            "ghazal",
+            "bollywood",
+            "desi pop",
+            "telugu pop",
+            "hindi pop"
+        ],
+        "popularity": 64,
+        "followers": 5928757
+    },
+    {
+        "id": "03uMw43UVu9MsQCcHVSGjX",
+        "name": "Alice Phoebe Lou",
+        "genres": [],
+        "popularity": 63,
+        "followers": 495399
+    },
+    {
+        "id": "0MInKJqZscEeNc5K3K0mkE",
+        "name": "Simone & Simaria",
+        "genres": [
+            "sertanejo",
+            "sertanejo universitário",
+            "forró",
+            "arrocha",
+            "brazilian pop",
+            "piseiro"
+        ],
+        "popularity": 63,
+        "followers": 5315793
+    },
+    {
+        "id": "1uf8uSErmKc3JVtmjVBZ83",
+        "name": "Azzy",
+        "genres": [
+            "brazilian hip hop"
+        ],
+        "popularity": 63,
+        "followers": 315801
+    }
+]
