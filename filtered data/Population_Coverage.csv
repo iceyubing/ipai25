@@ -1,4 +1,4 @@
-country,total_Population_million_people,population_density,population_rank,population_coverage_perc,geographic_coverage_perc,year
+Country,total_Population_million_people,population_density,population_rank,population_coverage_perc,geographic_coverage_perc,year
 Aruba,0.088,591.3611,198,100,100,1998
 Aruba,0.088,591.3611,198,100,100,1999
 Aruba,0.088,591.3611,198,100,100,2000
