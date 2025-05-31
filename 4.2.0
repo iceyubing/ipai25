@@ -1,31 +1,12 @@
-Collecting nbformat
-  Using cached nbformat-5.10.4-py3-none-any.whl.metadata (3.6 kB)
-Collecting fastjsonschema>=2.15 (from nbformat)
-  Using cached fastjsonschema-2.21.1-py3-none-any.whl.metadata (2.2 kB)
-Collecting jsonschema>=2.6 (from nbformat)
-  Downloading jsonschema-4.24.0-py3-none-any.whl.metadata (7.8 kB)
-Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in c:\users\admin\documents\github\ipai25\.venv\lib\site-packages (from nbformat) (5.8.1)
-Requirement already satisfied: traitlets>=5.1 in c:\users\admin\documents\github\ipai25\.venv\lib\site-packages (from nbformat) (5.14.3)
-Collecting attrs>=22.2.0 (from jsonschema>=2.6->nbformat)
-  Using cached attrs-25.3.0-py3-none-any.whl.metadata (10 kB)
-Collecting jsonschema-specifications>=2023.03.6 (from jsonschema>=2.6->nbformat)
-  Using cached jsonschema_specifications-2025.4.1-py3-none-any.whl.metadata (2.9 kB)
-Collecting referencing>=0.28.4 (from jsonschema>=2.6->nbformat)
-  Using cached referencing-0.36.2-py3-none-any.whl.metadata (2.8 kB)
-Collecting rpds-py>=0.7.1 (from jsonschema>=2.6->nbformat)
-  Using cached rpds_py-0.25.1-cp312-cp312-win_amd64.whl.metadata (4.2 kB)
-Requirement already satisfied: platformdirs>=2.5 in c:\users\admin\documents\github\ipai25\.venv\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (4.3.8)
-Requirement already satisfied: pywin32>=300 in c:\users\admin\documents\github\ipai25\.venv\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (310)
-Collecting typing-extensions>=4.4.0 (from referencing>=0.28.4->jsonschema>=2.6->nbformat)
-  Using cached typing_extensions-4.13.2-py3-none-any.whl.metadata (3.0 kB)
-Using cached nbformat-5.10.4-py3-none-any.whl (78 kB)
-Using cached fastjsonschema-2.21.1-py3-none-any.whl (23 kB)
-Downloading jsonschema-4.24.0-py3-none-any.whl (88 kB)
-Using cached attrs-25.3.0-py3-none-any.whl (63 kB)
-Using cached jsonschema_specifications-2025.4.1-py3-none-any.whl (18 kB)
-Using cached referencing-0.36.2-py3-none-any.whl (26 kB)
-Using cached rpds_py-0.25.1-cp312-cp312-win_amd64.whl (235 kB)
-Using cached typing_extensions-4.13.2-py3-none-any.whl (45 kB)
-Installing collected packages: fastjsonschema, typing-extensions, rpds-py, attrs, referencing, jsonschema-specifications, jsonschema, nbformat
-   ----- ---------------------------------- 1/8 [typing-extensions]   --------------- ------------------------ 3/8 [attrs]   --------------- ------------------------ 3/8 [attrs]   -------------------- ------------------- 4/8 [referencing]   ------------------------------ --------- 6/8 [jsonschema]   ------------------------------ --------- 6/8 [jsonschema]   ------------------------------ --------- 6/8 [jsonschema]   ------------------------------ --------- 6/8 [jsonschema]   ----------------------------------- ---- 7/8 [nbformat]   ----------------------------------- ---- 7/8 [nbformat]   ----------------------------------- ---- 7/8 [nbformat]   ----------------------------------- ---- 7/8 [nbformat]   ---------------------------------------- 8/8 [nbformat]
-Successfully installed attrs-25.3.0 fastjsonschema-2.21.1 jsonschema-4.24.0 jsonschema-specifications-2025.4.1 nbformat-5.10.4 referencing-0.36.2 rpds-py-0.25.1 typing-extensions-4.13.2
+Requirement already satisfied: nbformat in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (5.10.4)
+Requirement already satisfied: fastjsonschema>=2.15 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from nbformat) (2.21.1)
+Requirement already satisfied: jsonschema>=2.6 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from nbformat) (4.23.0)
+Requirement already satisfied: jupyter-core!=5.0.*,>=4.12 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from nbformat) (5.7.2)
+Requirement already satisfied: traitlets>=5.1 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from nbformat) (5.14.3)
+Requirement already satisfied: attrs>=22.2.0 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jsonschema>=2.6->nbformat) (25.3.0)
+Requirement already satisfied: jsonschema-specifications>=2023.03.6 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jsonschema>=2.6->nbformat) (2025.4.1)
+Requirement already satisfied: referencing>=0.28.4 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jsonschema>=2.6->nbformat) (0.36.2)
+Requirement already satisfied: rpds-py>=0.7.1 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jsonschema>=2.6->nbformat) (0.25.1)
+Requirement already satisfied: platformdirs>=2.5 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (4.3.7)
+Requirement already satisfied: pywin32>=300 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from jupyter-core!=5.0.*,>=4.12->nbformat) (310)
+Requirement already satisfied: typing-extensions>=4.4.0 in c:\users\acer\documents\github\ipai25\myenv\lib\site-packages (from referencing>=0.28.4->jsonschema>=2.6->nbformat) (4.13.0)
