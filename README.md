@@ -23,6 +23,8 @@ We customily created a mapping between the countries and their capitals in the c
 
 The entire analysis process in this fase is contained in the Data_Analysis.ipynb Notebook.
 
+All the notebooks are also exported as HTML files in the Project_html folder of the repository.
+
 
 
 
